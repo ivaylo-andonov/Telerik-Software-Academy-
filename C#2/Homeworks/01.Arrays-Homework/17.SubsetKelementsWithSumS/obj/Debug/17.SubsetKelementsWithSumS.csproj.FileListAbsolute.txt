@@ -1,6 +1,0 @@
-C:\Users\Envy\Visual Studio Pro 2012\Telerik 2015\C#2\Homeworks\01.Arrays-Homework\17.SubsetKelementsWithSumS\bin\Debug\17.SubsetKelementsWithSumS.exe.config
-C:\Users\Envy\Visual Studio Pro 2012\Telerik 2015\C#2\Homeworks\01.Arrays-Homework\17.SubsetKelementsWithSumS\bin\Debug\17.SubsetKelementsWithSumS.exe
-C:\Users\Envy\Visual Studio Pro 2012\Telerik 2015\C#2\Homeworks\01.Arrays-Homework\17.SubsetKelementsWithSumS\bin\Debug\17.SubsetKelementsWithSumS.pdb
-C:\Users\Envy\Visual Studio Pro 2012\Telerik 2015\C#2\Homeworks\01.Arrays-Homework\17.SubsetKelementsWithSumS\obj\Debug\17.SubsetKelementsWithSumS.csprojResolveAssemblyReference.cache
-C:\Users\Envy\Visual Studio Pro 2012\Telerik 2015\C#2\Homeworks\01.Arrays-Homework\17.SubsetKelementsWithSumS\obj\Debug\17.SubsetKelementsWithSumS.exe
-C:\Users\Envy\Visual Studio Pro 2012\Telerik 2015\C#2\Homeworks\01.Arrays-Homework\17.SubsetKelementsWithSumS\obj\Debug\17.SubsetKelementsWithSumS.pdb

@@ -1,1 +1,0 @@
-C:\Users\Envy\Visual Studio Pro 2012\Telerik 2015\C#2\Homeworks\01.Arrays-Homework\18.RemoveElementsFromArray\bin\Debug\18.RemoveElementsFromArray.exe.config
