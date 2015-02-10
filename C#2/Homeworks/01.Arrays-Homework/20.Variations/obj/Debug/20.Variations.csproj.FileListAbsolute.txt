@@ -1,6 +1,0 @@
-C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\01.Arrays-Homework\20.Variations\bin\Debug\20.Variations.exe.config
-C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\01.Arrays-Homework\20.Variations\bin\Debug\20.Variations.exe
-C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\01.Arrays-Homework\20.Variations\bin\Debug\20.Variations.pdb
-C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\01.Arrays-Homework\20.Variations\obj\Debug\20.Variations.csprojResolveAssemblyReference.cache
-C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\01.Arrays-Homework\20.Variations\obj\Debug\20.Variations.exe
-C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\01.Arrays-Homework\20.Variations\obj\Debug\20.Variations.pdb

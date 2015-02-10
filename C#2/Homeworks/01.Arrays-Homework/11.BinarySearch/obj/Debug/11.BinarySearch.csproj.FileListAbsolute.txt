@@ -1,5 +1,0 @@
-C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\01.Arrays-Homework\11.BinarySearch\bin\Debug\11.BinarySearch.exe.config
-C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\01.Arrays-Homework\11.BinarySearch\bin\Debug\11.BinarySearch.exe
-C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\01.Arrays-Homework\11.BinarySearch\bin\Debug\11.BinarySearch.pdb
-C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\01.Arrays-Homework\11.BinarySearch\obj\Debug\11.BinarySearch.exe
-C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\01.Arrays-Homework\11.BinarySearch\obj\Debug\11.BinarySearch.pdb

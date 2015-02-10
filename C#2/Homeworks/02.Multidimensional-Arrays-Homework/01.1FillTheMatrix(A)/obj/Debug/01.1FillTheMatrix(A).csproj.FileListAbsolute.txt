@@ -1,6 +1,0 @@
-C:\Users\Envy\Visual Studio Pro 2012\Projects\02.Multidimensional-Arrays-Homework\01.FillTheMatrix\bin\Debug\01.FillTheMatrix.exe.config
-C:\Users\Envy\Visual Studio Pro 2012\Projects\02.Multidimensional-Arrays-Homework\01.FillTheMatrix\obj\Debug\01.FillTheMatrix.exe
-C:\Users\Envy\Visual Studio Pro 2012\Projects\02.Multidimensional-Arrays-Homework\01.FillTheMatrix\obj\Debug\01.FillTheMatrix.pdb
-C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\02.Multidimensional-Arrays-Homework\01.1FillTheMatrix(A)\bin\Debug\01.FillTheMatrix.exe.config
-C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\02.Multidimensional-Arrays-Homework\01.1FillTheMatrix(A)\obj\Debug\01.FillTheMatrix.exe
-C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\02.Multidimensional-Arrays-Homework\01.1FillTheMatrix(A)\obj\Debug\01.FillTheMatrix.pdb

@@ -1,5 +1,0 @@
-C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\01.Arrays-Homework\16.SubsetSumS\bin\Debug\16.SubsetSumS.exe.config
-C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\01.Arrays-Homework\16.SubsetSumS\bin\Debug\16.SubsetSumS.exe
-C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\01.Arrays-Homework\16.SubsetSumS\bin\Debug\16.SubsetSumS.pdb
-C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\01.Arrays-Homework\16.SubsetSumS\obj\Debug\16.SubsetSumS.exe
-C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\01.Arrays-Homework\16.SubsetSumS\obj\Debug\16.SubsetSumS.pdb

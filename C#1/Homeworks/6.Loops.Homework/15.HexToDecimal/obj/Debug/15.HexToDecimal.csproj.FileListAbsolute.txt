@@ -1,6 +1,0 @@
-C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#1\Homeworks\6.Loops.Homework\15.HexToDecimal\bin\Debug\15.HexToDecimal.exe.config
-C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#1\Homeworks\6.Loops.Homework\15.HexToDecimal\bin\Debug\15.HexToDecimal.exe
-C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#1\Homeworks\6.Loops.Homework\15.HexToDecimal\bin\Debug\15.HexToDecimal.pdb
-C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#1\Homeworks\6.Loops.Homework\15.HexToDecimal\obj\Debug\15.HexToDecimal.csprojResolveAssemblyReference.cache
-C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#1\Homeworks\6.Loops.Homework\15.HexToDecimal\obj\Debug\15.HexToDecimal.exe
-C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#1\Homeworks\6.Loops.Homework\15.HexToDecimal\obj\Debug\15.HexToDecimal.pdb

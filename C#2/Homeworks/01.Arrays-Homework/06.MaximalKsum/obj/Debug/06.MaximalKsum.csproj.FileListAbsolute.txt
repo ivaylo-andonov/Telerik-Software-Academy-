@@ -1,6 +1,0 @@
-C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\01.Arrays-Homework\06.MaximalKsum\bin\Debug\06.MaximalKsum.exe.config
-C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\01.Arrays-Homework\06.MaximalKsum\bin\Debug\06.MaximalKsum.exe
-C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\01.Arrays-Homework\06.MaximalKsum\bin\Debug\06.MaximalKsum.pdb
-C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\01.Arrays-Homework\06.MaximalKsum\obj\Debug\06.MaximalKsum.csprojResolveAssemblyReference.cache
-C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\01.Arrays-Homework\06.MaximalKsum\obj\Debug\06.MaximalKsum.exe
-C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\01.Arrays-Homework\06.MaximalKsum\obj\Debug\06.MaximalKsum.pdb
