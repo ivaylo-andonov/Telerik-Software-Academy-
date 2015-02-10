@@ -1,0 +1,5 @@
+C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\01.Arrays-Homework\04.MaximalSequence\bin\Debug\04.MaximalSequence.exe.config
+C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\01.Arrays-Homework\04.MaximalSequence\bin\Debug\04.MaximalSequence.exe
+C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\01.Arrays-Homework\04.MaximalSequence\bin\Debug\04.MaximalSequence.pdb
+C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\01.Arrays-Homework\04.MaximalSequence\obj\Debug\04.MaximalSequence.exe
+C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\01.Arrays-Homework\04.MaximalSequence\obj\Debug\04.MaximalSequence.pdb

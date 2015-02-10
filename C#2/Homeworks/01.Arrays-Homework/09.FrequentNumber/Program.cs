@@ -44,7 +44,7 @@ class Program
         //Console.WriteLine("The most frequent number is {0}, ({1}) times.",number.Number,number.Freq);
 
 
-        // THIRD WAY :
+        // THIRD WAY with dict:
 
         //int mostFreqNumber = array.GroupBy(v => v).OrderBy(g => g.Count()).Last().Key;
         //Console.WriteLine("The most frequent number is: {0}",mostFreqNumber);

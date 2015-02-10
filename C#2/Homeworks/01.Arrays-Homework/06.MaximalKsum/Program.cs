@@ -16,6 +16,7 @@ class Program
             array[i] = int.Parse(Console.ReadLine());
         }
 
+
         Console.WriteLine("Enter number of elements to sum (elements from the array) :");
         int K = int.Parse(Console.ReadLine());
         

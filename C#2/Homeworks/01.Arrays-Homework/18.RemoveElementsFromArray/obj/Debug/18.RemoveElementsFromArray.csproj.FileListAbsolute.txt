@@ -1,0 +1,7 @@
+C:\Users\Envy\Visual Studio Pro 2012\Telerik 2015\C#2\Homeworks\01.Arrays-Homework\18.RemoveElementsFromArray\bin\Debug\18.RemoveElementsFromArray.exe.config
+C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\01.Arrays-Homework\18.RemoveElementsFromArray\bin\Debug\18.RemoveElementsFromArray.exe.config
+C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\01.Arrays-Homework\18.RemoveElementsFromArray\bin\Debug\18.RemoveElementsFromArray.exe
+C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\01.Arrays-Homework\18.RemoveElementsFromArray\bin\Debug\18.RemoveElementsFromArray.pdb
+C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\01.Arrays-Homework\18.RemoveElementsFromArray\obj\Debug\18.RemoveElementsFromArray.csprojResolveAssemblyReference.cache
+C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\01.Arrays-Homework\18.RemoveElementsFromArray\obj\Debug\18.RemoveElementsFromArray.exe
+C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\01.Arrays-Homework\18.RemoveElementsFromArray\obj\Debug\18.RemoveElementsFromArray.pdb

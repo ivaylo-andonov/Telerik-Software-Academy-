@@ -1,7 +1,4 @@
-﻿//Write a program that reads from the console a positive integer number n (1 = n = 20) and prints a matrix holding the numbers 
-//from 1 to n*n in the form of square spiral like in the examples below.
-
-using System;
+﻿using System;
 
 class SpiralMatrix
 {
@@ -62,16 +59,58 @@ class SpiralMatrix
                 row--;
             }
         }
-
         // Display Matrix
 
         for (int r = 0; r < n; r++)
         {
             for (int c = 0; c < n; c++)
             {
-                Console.Write("{0,4}", matrix[r, c]);
+                Console.Write("{0,-3}", matrix[r, c]);
             }
-            Console.WriteLine();
+            Console.WriteLine("\n");
         }
+
+
+        // SECOND WAY:
+
+        //int offset = 0;
+        //int ROW = 0;
+        //int COL = 0;
+        //while (digit <= n * n)            //Filling matrix
+        //{
+        //    for (ROW = offset; ROW < n - offset; ROW++)
+        //    {
+        //        COL = offset;
+        //        matrix[ROW, COL] = digit;
+        //        digit++;
+        //    }
+        //    for (COL = 1 + offset; COL < n - offset; COL++)
+        //    {
+        //        ROW = n - 1 - offset;
+        //        matrix[ROW, COL] = digit;
+        //        digit++;
+        //    }
+        //    for (ROW = n - 2 - offset; ROW >= offset; ROW--)
+        //    {
+        //        COL = n - 1 - offset;
+        //        matrix[ROW, COL] = digit;
+        //        digit++;
+        //    }
+        //    for (COL = n - 2 - offset; COL >= offset + 1; COL--)
+        //    {
+        //        ROW = offset;
+        //        matrix[ROW, COL] = digit;
+        //        digit++;
+        //    }
+        //    offset++;
+        //}
+
+        //for (int irow = 0; irow < n; irow++)           //Printing
+        //{
+        //    for (int column = 0; column < n; column++)
+        //    {
+        //        Console.Write("{0, -3}", matrix[irow, column]);
+        //    }
+        //    Console.WriteLine("\n");
     }
 }

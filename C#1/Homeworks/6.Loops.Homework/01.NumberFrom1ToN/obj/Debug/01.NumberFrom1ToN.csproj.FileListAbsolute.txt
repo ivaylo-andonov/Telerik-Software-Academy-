@@ -1,0 +1,1 @@
+C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#1\Homeworks\6.Loops.Homework\01.NumberFrom1ToN\bin\Debug\01.NumberFrom1ToN.exe.config

@@ -8,7 +8,7 @@ class Program
 {
     static void Main()
     {
-        long n = 10000;
+        long n = 10000; // 10 000 000 prime numbers is too big number and the console`s buffer will blow/crash during writing numbers
         bool[] isNotPrime = new bool[n];
 
         for (int i = 2; i < n; i++)

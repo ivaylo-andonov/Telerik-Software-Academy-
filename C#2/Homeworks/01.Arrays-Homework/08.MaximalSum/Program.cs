@@ -32,7 +32,7 @@ class Program
                 {
                     biggestSum = sum;
                     startNum = startIndex;
-                    endNum = i;
+                    endNum = i+j;
                 }
             }
         }

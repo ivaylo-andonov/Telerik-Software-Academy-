@@ -1,0 +1,5 @@
+C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\01.Arrays-Homework\14.QuickSort\bin\Debug\14.QuickSort.exe.config
+C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\01.Arrays-Homework\14.QuickSort\bin\Debug\14.QuickSort.exe
+C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\01.Arrays-Homework\14.QuickSort\bin\Debug\14.QuickSort.pdb
+C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\01.Arrays-Homework\14.QuickSort\obj\Debug\14.QuickSort.exe
+C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\01.Arrays-Homework\14.QuickSort\obj\Debug\14.QuickSort.pdb

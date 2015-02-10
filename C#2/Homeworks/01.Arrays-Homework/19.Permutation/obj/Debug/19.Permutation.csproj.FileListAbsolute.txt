@@ -1,0 +1,6 @@
+C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\01.Arrays-Homework\19.Permutation\bin\Debug\19.Permutation.exe.config
+C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\01.Arrays-Homework\19.Permutation\bin\Debug\19.Permutation.exe
+C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\01.Arrays-Homework\19.Permutation\bin\Debug\19.Permutation.pdb
+C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\01.Arrays-Homework\19.Permutation\obj\Debug\19.Permutation.csprojResolveAssemblyReference.cache
+C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\01.Arrays-Homework\19.Permutation\obj\Debug\19.Permutation.exe
+C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\01.Arrays-Homework\19.Permutation\obj\Debug\19.Permutation.pdb

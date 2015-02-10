@@ -1,0 +1,6 @@
+C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\01.Arrays-Homework\05.MaximalIncreasingSequence\bin\Debug\05.MaximalIncreasingSequence.exe.config
+C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\01.Arrays-Homework\05.MaximalIncreasingSequence\bin\Debug\05.MaximalIncreasingSequence.exe
+C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\01.Arrays-Homework\05.MaximalIncreasingSequence\bin\Debug\05.MaximalIncreasingSequence.pdb
+C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\01.Arrays-Homework\05.MaximalIncreasingSequence\obj\Debug\05.MaximalIncreasingSequence.exe
+C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\01.Arrays-Homework\05.MaximalIncreasingSequence\obj\Debug\05.MaximalIncreasingSequence.pdb
+C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\01.Arrays-Homework\05.MaximalIncreasingSequence\obj\Debug\05.MaximalIncreasingSequence.csprojResolveAssemblyReference.cache

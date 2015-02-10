@@ -1,0 +1,6 @@
+C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\01.Arrays-Homework\03.CompareCharArrays\bin\Debug\03.CompareCharArrays.exe.config
+C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\01.Arrays-Homework\03.CompareCharArrays\bin\Debug\03.CompareCharArrays.exe
+C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\01.Arrays-Homework\03.CompareCharArrays\bin\Debug\03.CompareCharArrays.pdb
+C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\01.Arrays-Homework\03.CompareCharArrays\obj\Debug\03.CompareCharArrays.csprojResolveAssemblyReference.cache
+C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\01.Arrays-Homework\03.CompareCharArrays\obj\Debug\03.CompareCharArrays.exe
+C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\01.Arrays-Homework\03.CompareCharArrays\obj\Debug\03.CompareCharArrays.pdb

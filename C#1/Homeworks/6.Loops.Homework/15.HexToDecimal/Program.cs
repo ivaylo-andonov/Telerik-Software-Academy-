@@ -25,7 +25,7 @@ class HexadecimalToDecimal
                 case '7':
                 case '8':
                 case '9':
-                    decimalNumber += (long.Parse(input[i].ToString())) * (long)Math.Pow(16, input.Length - 1 - i);
+                    decimalNumber += (long.Parse(input[i].ToString())) * (long)Math.Pow(16, i);
                     break;
                 case 'A':
                     decimalNumber += 10 * (long)Math.Pow(16, input.Length - 1 - i);
