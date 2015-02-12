@@ -1,0 +1,6 @@
+C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\02.Multidimensional-Arrays-Homework\03.SequenceNinMatrix\bin\Debug\03.SequenceNinMatrix.exe.config
+C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\02.Multidimensional-Arrays-Homework\03.SequenceNinMatrix\bin\Debug\03.SequenceNinMatrix.exe
+C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\02.Multidimensional-Arrays-Homework\03.SequenceNinMatrix\bin\Debug\03.SequenceNinMatrix.pdb
+C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\02.Multidimensional-Arrays-Homework\03.SequenceNinMatrix\obj\Debug\03.SequenceNinMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\02.Multidimensional-Arrays-Homework\03.SequenceNinMatrix\obj\Debug\03.SequenceNinMatrix.exe
+C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\02.Multidimensional-Arrays-Homework\03.SequenceNinMatrix\obj\Debug\03.SequenceNinMatrix.pdb
