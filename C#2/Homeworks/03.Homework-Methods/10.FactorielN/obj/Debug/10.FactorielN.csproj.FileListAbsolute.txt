@@ -1,6 +1,0 @@
-C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-Methods\10.FactorielN\bin\Debug\10.FactorielN.exe.config
-C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-Methods\10.FactorielN\bin\Debug\10.FactorielN.exe
-C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-Methods\10.FactorielN\bin\Debug\10.FactorielN.pdb
-C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-Methods\10.FactorielN\obj\Debug\10.FactorielN.csprojResolveAssemblyReference.cache
-C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-Methods\10.FactorielN\obj\Debug\10.FactorielN.exe
-C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-Methods\10.FactorielN\obj\Debug\10.FactorielN.pdb

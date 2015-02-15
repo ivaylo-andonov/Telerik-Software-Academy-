@@ -1,6 +1,0 @@
-C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-Methods\01.SayHello\bin\Debug\01.SayHello.exe.config
-C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-Methods\01.SayHello\bin\Debug\01.SayHello.exe
-C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-Methods\01.SayHello\bin\Debug\01.SayHello.pdb
-C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-Methods\01.SayHello\obj\Debug\01.SayHello.csprojResolveAssemblyReference.cache
-C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-Methods\01.SayHello\obj\Debug\01.SayHello.exe
-C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-Methods\01.SayHello\obj\Debug\01.SayHello.pdb

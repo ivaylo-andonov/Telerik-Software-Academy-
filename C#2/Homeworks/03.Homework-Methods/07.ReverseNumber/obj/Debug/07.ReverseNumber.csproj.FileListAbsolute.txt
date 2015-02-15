@@ -1,6 +1,0 @@
-C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-Methods\07.ReverseNumber\bin\Debug\07.ReverseNumber.exe.config
-C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-Methods\07.ReverseNumber\bin\Debug\07.ReverseNumber.exe
-C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-Methods\07.ReverseNumber\bin\Debug\07.ReverseNumber.pdb
-C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-Methods\07.ReverseNumber\obj\Debug\07.ReverseNumber.exe
-C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-Methods\07.ReverseNumber\obj\Debug\07.ReverseNumber.pdb
-C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-Methods\07.ReverseNumber\obj\Debug\07.ReverseNumber.csprojResolveAssemblyReference.cache

@@ -1,5 +1,0 @@
-C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-Methods\12.SubtractingPolynomials\bin\Debug\12.SubtractingPolynomials.exe.config
-C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-Methods\12.SubtractingPolynomials\bin\Debug\12.SubtractingPolynomials.exe
-C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-Methods\12.SubtractingPolynomials\bin\Debug\12.SubtractingPolynomials.pdb
-C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-Methods\12.SubtractingPolynomials\obj\Debug\12.SubtractingPolynomials.exe
-C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-Methods\12.SubtractingPolynomials\obj\Debug\12.SubtractingPolynomials.pdb
