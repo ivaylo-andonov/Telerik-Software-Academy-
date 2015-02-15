@@ -1,0 +1,6 @@
+C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-Methods\08.NumberAsArray\bin\Debug\08.NumberAsArray.exe.config
+C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-Methods\08.NumberAsArray\bin\Debug\08.NumberAsArray.exe
+C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-Methods\08.NumberAsArray\bin\Debug\08.NumberAsArray.pdb
+C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-Methods\08.NumberAsArray\obj\Debug\08.NumberAsArray.exe
+C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-Methods\08.NumberAsArray\obj\Debug\08.NumberAsArray.pdb
+C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-Methods\08.NumberAsArray\obj\Debug\08.NumberAsArray.csprojResolveAssemblyReference.cache

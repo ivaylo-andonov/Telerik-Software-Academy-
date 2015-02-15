@@ -1,0 +1,6 @@
+C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-Methods\04.AppearanceCount\bin\Debug\04.AppearanceCount.exe.config
+C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-Methods\04.AppearanceCount\bin\Debug\04.AppearanceCount.exe
+C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-Methods\04.AppearanceCount\bin\Debug\04.AppearanceCount.pdb
+C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-Methods\04.AppearanceCount\obj\Debug\04.AppearanceCount.csprojResolveAssemblyReference.cache
+C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-Methods\04.AppearanceCount\obj\Debug\04.AppearanceCount.exe
+C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-Methods\04.AppearanceCount\obj\Debug\04.AppearanceCount.pdb

@@ -1,0 +1,6 @@
+C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-Methods\09.SortingArray\bin\Debug\09.SortingArray.exe.config
+C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-Methods\09.SortingArray\bin\Debug\09.SortingArray.exe
+C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-Methods\09.SortingArray\bin\Debug\09.SortingArray.pdb
+C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-Methods\09.SortingArray\obj\Debug\09.SortingArray.exe
+C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-Methods\09.SortingArray\obj\Debug\09.SortingArray.pdb
+C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-Methods\09.SortingArray\obj\Debug\09.SortingArray.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-Methods\15.NumberCalculations\bin\Debug\15.NumberCalculations.exe.config
+C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-Methods\15.NumberCalculations\bin\Debug\15.NumberCalculations.exe
+C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-Methods\15.NumberCalculations\bin\Debug\15.NumberCalculations.pdb
+C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-Methods\15.NumberCalculations\obj\Debug\15.NumberCalculations.exe
+C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-Methods\15.NumberCalculations\obj\Debug\15.NumberCalculations.pdb
+C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-Methods\15.NumberCalculations\obj\Debug\15.NumberCalculations.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-Methods\06.FirstLargerThanNeighbours\bin\Debug\06.FirstLargerThanNeighbours.exe.config
+C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-Methods\06.FirstLargerThanNeighbours\bin\Debug\06.FirstLargerThanNeighbours.exe
+C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-Methods\06.FirstLargerThanNeighbours\bin\Debug\06.FirstLargerThanNeighbours.pdb
+C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-Methods\06.FirstLargerThanNeighbours\obj\Debug\06.FirstLargerThanNeighbours.exe
+C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-Methods\06.FirstLargerThanNeighbours\obj\Debug\06.FirstLargerThanNeighbours.pdb
+C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-Methods\06.FirstLargerThanNeighbours\obj\Debug\06.FirstLargerThanNeighbours.csprojResolveAssemblyReference.cache
