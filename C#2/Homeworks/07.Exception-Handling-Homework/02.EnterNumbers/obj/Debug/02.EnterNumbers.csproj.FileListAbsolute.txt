@@ -1,0 +1,6 @@
+C:\Users\Envy\Visual Studio Pro 2012\Projects\07.Exception-Handling-Homework\02.EnterNumbers\bin\Debug\02.EnterNumbers.exe.config
+C:\Users\Envy\Visual Studio Pro 2012\Projects\07.Exception-Handling-Homework\02.EnterNumbers\bin\Debug\02.EnterNumbers.exe
+C:\Users\Envy\Visual Studio Pro 2012\Projects\07.Exception-Handling-Homework\02.EnterNumbers\bin\Debug\02.EnterNumbers.pdb
+C:\Users\Envy\Visual Studio Pro 2012\Projects\07.Exception-Handling-Homework\02.EnterNumbers\obj\Debug\02.EnterNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Envy\Visual Studio Pro 2012\Projects\07.Exception-Handling-Homework\02.EnterNumbers\obj\Debug\02.EnterNumbers.exe
+C:\Users\Envy\Visual Studio Pro 2012\Projects\07.Exception-Handling-Homework\02.EnterNumbers\obj\Debug\02.EnterNumbers.pdb

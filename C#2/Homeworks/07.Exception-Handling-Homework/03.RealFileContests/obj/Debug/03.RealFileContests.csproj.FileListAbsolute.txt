@@ -1,0 +1,5 @@
+C:\Users\Envy\Visual Studio Pro 2012\Projects\07.Exception-Handling-Homework\03.RealFileContests\bin\Debug\03.RealFileContests.exe.config
+C:\Users\Envy\Visual Studio Pro 2012\Projects\07.Exception-Handling-Homework\03.RealFileContests\bin\Debug\03.RealFileContests.exe
+C:\Users\Envy\Visual Studio Pro 2012\Projects\07.Exception-Handling-Homework\03.RealFileContests\bin\Debug\03.RealFileContests.pdb
+C:\Users\Envy\Visual Studio Pro 2012\Projects\07.Exception-Handling-Homework\03.RealFileContests\obj\Debug\03.RealFileContests.exe
+C:\Users\Envy\Visual Studio Pro 2012\Projects\07.Exception-Handling-Homework\03.RealFileContests\obj\Debug\03.RealFileContests.pdb
