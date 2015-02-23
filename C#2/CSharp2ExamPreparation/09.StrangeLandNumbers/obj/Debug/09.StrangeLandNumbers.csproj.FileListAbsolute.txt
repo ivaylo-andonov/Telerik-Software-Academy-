@@ -1,0 +1,6 @@
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPractice\09.StrangeLandNumbers\bin\Debug\09.StrangeLandNumbers.exe.config
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPractice\09.StrangeLandNumbers\bin\Debug\09.StrangeLandNumbers.exe
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPractice\09.StrangeLandNumbers\bin\Debug\09.StrangeLandNumbers.pdb
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPractice\09.StrangeLandNumbers\obj\Debug\09.StrangeLandNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPractice\09.StrangeLandNumbers\obj\Debug\09.StrangeLandNumbers.exe
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPractice\09.StrangeLandNumbers\obj\Debug\09.StrangeLandNumbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPractice\11.EcdodeAndEncrypt\bin\Debug\11.EcdodeAndEncrypt.exe.config
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPractice\11.EcdodeAndEncrypt\bin\Debug\11.EcdodeAndEncrypt.exe
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPractice\11.EcdodeAndEncrypt\bin\Debug\11.EcdodeAndEncrypt.pdb
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPractice\11.EcdodeAndEncrypt\obj\Debug\11.EncdodeAndEncrypt.csprojResolveAssemblyReference.cache
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPractice\11.EcdodeAndEncrypt\obj\Debug\11.EcdodeAndEncrypt.exe
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPractice\11.EcdodeAndEncrypt\obj\Debug\11.EcdodeAndEncrypt.pdb

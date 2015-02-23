@@ -1,0 +1,6 @@
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPractice\01.Zerg!\bin\Debug\01.Zerg!.exe.config
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPractice\01.Zerg!\bin\Debug\01.Zerg!.exe
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPractice\01.Zerg!\bin\Debug\01.Zerg!.pdb
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPractice\01.Zerg!\obj\Debug\01.Zerg!.csprojResolveAssemblyReference.cache
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPractice\01.Zerg!\obj\Debug\01.Zerg!.exe
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPractice\01.Zerg!\obj\Debug\01.Zerg!.pdb

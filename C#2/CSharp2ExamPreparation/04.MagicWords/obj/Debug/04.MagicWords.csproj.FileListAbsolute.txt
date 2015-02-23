@@ -1,0 +1,5 @@
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPractice\04.MagicWords\bin\Debug\04.MagicWords.exe.config
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPractice\04.MagicWords\bin\Debug\04.MagicWords.exe
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPractice\04.MagicWords\bin\Debug\04.MagicWords.pdb
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPractice\04.MagicWords\obj\Debug\04.MagicWords.exe
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPractice\04.MagicWords\obj\Debug\04.MagicWords.pdb

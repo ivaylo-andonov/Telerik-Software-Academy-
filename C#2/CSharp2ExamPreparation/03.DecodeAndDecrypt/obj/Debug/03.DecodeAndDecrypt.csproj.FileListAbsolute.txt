@@ -1,0 +1,6 @@
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPractice\03.DecodeAndDecrypt\bin\Debug\03.DecodeAndDecrypt.exe.config
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPractice\03.DecodeAndDecrypt\bin\Debug\03.DecodeAndDecrypt.exe
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPractice\03.DecodeAndDecrypt\bin\Debug\03.DecodeAndDecrypt.pdb
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPractice\03.DecodeAndDecrypt\obj\Debug\03.DecodeAndDecrypt.csprojResolveAssemblyReference.cache
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPractice\03.DecodeAndDecrypt\obj\Debug\03.DecodeAndDecrypt.exe
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPractice\03.DecodeAndDecrypt\obj\Debug\03.DecodeAndDecrypt.pdb
