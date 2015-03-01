@@ -18,7 +18,6 @@ class Program
 		        maxWordLength = inputWords[i].Length;
             }
 		}
-
         for (int i = 0; i < maxWordLength; i++)
         {
             for (int j = 0; j < inputWords.Length; j++)

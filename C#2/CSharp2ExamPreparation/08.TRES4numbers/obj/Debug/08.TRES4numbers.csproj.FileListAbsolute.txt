@@ -3,3 +3,6 @@ C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPractice\08.TRES4number
 C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPractice\08.TRES4numbers\bin\Debug\08.TRES4numbers.pdb
 C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPractice\08.TRES4numbers\obj\Debug\08.TRES4numbers.exe
 C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPractice\08.TRES4numbers\obj\Debug\08.TRES4numbers.pdb
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPreparation\08.TRES4numbers\bin\Debug\08.TRES4numbers.exe.config
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPreparation\08.TRES4numbers\obj\Debug\08.TRES4numbers.exe
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPreparation\08.TRES4numbers\obj\Debug\08.TRES4numbers.pdb

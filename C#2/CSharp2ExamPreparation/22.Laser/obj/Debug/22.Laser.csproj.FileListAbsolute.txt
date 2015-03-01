@@ -1,0 +1,6 @@
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPreparation\22.Laser\bin\Debug\22.Laser.exe.config
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPreparation\22.Laser\bin\Debug\22.Laser.exe
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPreparation\22.Laser\bin\Debug\22.Laser.pdb
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPreparation\22.Laser\obj\Debug\22.Laser.csprojResolveAssemblyReference.cache
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPreparation\22.Laser\obj\Debug\22.Laser.exe
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPreparation\22.Laser\obj\Debug\22.Laser.pdb

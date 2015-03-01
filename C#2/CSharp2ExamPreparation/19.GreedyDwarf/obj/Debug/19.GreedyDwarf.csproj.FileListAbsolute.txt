@@ -1,0 +1,6 @@
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPreparation\19.GreedyDwarf\bin\Debug\19.GreedyDwarf.exe.config
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPreparation\19.GreedyDwarf\bin\Debug\19.GreedyDwarf.exe
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPreparation\19.GreedyDwarf\bin\Debug\19.GreedyDwarf.pdb
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPreparation\19.GreedyDwarf\obj\Debug\19.GreedyDwarf.csprojResolveAssemblyReference.cache
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPreparation\19.GreedyDwarf\obj\Debug\19.GreedyDwarf.exe
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPreparation\19.GreedyDwarf\obj\Debug\19.GreedyDwarf.pdb

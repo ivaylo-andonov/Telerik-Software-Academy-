@@ -1,14 +1,17 @@
 Homework: Arrays
+
 Problem 1. Allocate array
 
 Write a program that allocates array of 20 integers and initializes each element by its index multiplied by 5.
 Print the obtained array on the console.
+
 Problem 2. Compare arrays
 
 Write a program that reads two integer arrays from the console and compares them element by element.
 Problem 3. Compare char arrays
 
 Write a program that compares two char arrays lexicographically (letter by letter).
+
 Problem 4. Maximal sequence
 
 Write a program that finds the maximal sequence of equal elements in an array.

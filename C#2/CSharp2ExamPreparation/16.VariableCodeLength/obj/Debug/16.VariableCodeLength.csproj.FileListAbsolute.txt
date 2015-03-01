@@ -1,0 +1,6 @@
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPreparation\16.VariableCodeLength\bin\Debug\16.VariableCodeLength.exe.config
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPreparation\16.VariableCodeLength\bin\Debug\16.VariableCodeLength.exe
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPreparation\16.VariableCodeLength\bin\Debug\16.VariableCodeLength.pdb
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPreparation\16.VariableCodeLength\obj\Debug\16.VariableCodeLength.csprojResolveAssemblyReference.cache
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPreparation\16.VariableCodeLength\obj\Debug\16.VariableCodeLength.exe
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPreparation\16.VariableCodeLength\obj\Debug\16.VariableCodeLength.pdb

@@ -1,0 +1,6 @@
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPreparation\20.SpecialValue\bin\Debug\20.SpecialValue.exe.config
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPreparation\20.SpecialValue\bin\Debug\20.SpecialValue.exe
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPreparation\20.SpecialValue\bin\Debug\20.SpecialValue.pdb
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPreparation\20.SpecialValue\obj\Debug\20.SpecialValue.csprojResolveAssemblyReference.cache
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPreparation\20.SpecialValue\obj\Debug\20.SpecialValue.exe
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPreparation\20.SpecialValue\obj\Debug\20.SpecialValue.pdb

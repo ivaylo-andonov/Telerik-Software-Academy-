@@ -1,0 +1,6 @@
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPreparation\15.RelevanceIndex\bin\Debug\15.RelevanceIndex.exe.config
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPreparation\15.RelevanceIndex\bin\Debug\15.RelevanceIndex.exe
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPreparation\15.RelevanceIndex\bin\Debug\15.RelevanceIndex.pdb
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPreparation\15.RelevanceIndex\obj\Debug\15.RelevanceIndex.csprojResolveAssemblyReference.cache
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPreparation\15.RelevanceIndex\obj\Debug\15.RelevanceIndex.exe
+C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPreparation\15.RelevanceIndex\obj\Debug\15.RelevanceIndex.pdb
