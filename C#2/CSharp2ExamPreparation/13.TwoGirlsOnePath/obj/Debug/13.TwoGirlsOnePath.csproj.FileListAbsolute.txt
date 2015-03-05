@@ -1,6 +1,0 @@
-C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPreparation\13.TwoGirlsOnePath\bin\Debug\13.TwoGirlsOnePath.exe.config
-C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPreparation\13.TwoGirlsOnePath\bin\Debug\13.TwoGirlsOnePath.exe
-C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPreparation\13.TwoGirlsOnePath\bin\Debug\13.TwoGirlsOnePath.pdb
-C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPreparation\13.TwoGirlsOnePath\obj\Debug\13.TwoGirlsOnePath.csprojResolveAssemblyReference.cache
-C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPreparation\13.TwoGirlsOnePath\obj\Debug\13.TwoGirlsOnePath.exe
-C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPreparation\13.TwoGirlsOnePath\obj\Debug\13.TwoGirlsOnePath.pdb

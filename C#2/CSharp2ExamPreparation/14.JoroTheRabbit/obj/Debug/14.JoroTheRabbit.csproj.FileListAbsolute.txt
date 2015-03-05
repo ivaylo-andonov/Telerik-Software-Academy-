@@ -1,6 +1,0 @@
-C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPreparation\14.JoroTheRabbit\bin\Debug\14.JoroTheRabbit.exe.config
-C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPreparation\14.JoroTheRabbit\bin\Debug\14.JoroTheRabbit.exe
-C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPreparation\14.JoroTheRabbit\bin\Debug\14.JoroTheRabbit.pdb
-C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPreparation\14.JoroTheRabbit\obj\Debug\14.JoroTheRabbit.csprojResolveAssemblyReference.cache
-C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPreparation\14.JoroTheRabbit\obj\Debug\14.JoroTheRabbit.exe
-C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPreparation\14.JoroTheRabbit\obj\Debug\14.JoroTheRabbit.pdb

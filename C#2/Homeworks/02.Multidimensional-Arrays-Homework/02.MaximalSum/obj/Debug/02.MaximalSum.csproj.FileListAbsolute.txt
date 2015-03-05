@@ -1,6 +1,0 @@
-C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\02.Multidimensional-Arrays-Homework\02.MaximalSum\bin\Debug\02.MaximalSum.exe.config
-C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\02.Multidimensional-Arrays-Homework\02.MaximalSum\bin\Debug\02.MaximalSum.exe
-C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\02.Multidimensional-Arrays-Homework\02.MaximalSum\bin\Debug\02.MaximalSum.pdb
-C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\02.Multidimensional-Arrays-Homework\02.MaximalSum\obj\Debug\02.MaximalSum.csprojResolveAssemblyReference.cache
-C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\02.Multidimensional-Arrays-Homework\02.MaximalSum\obj\Debug\02.MaximalSum.exe
-C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\02.Multidimensional-Arrays-Homework\02.MaximalSum\obj\Debug\02.MaximalSum.pdb

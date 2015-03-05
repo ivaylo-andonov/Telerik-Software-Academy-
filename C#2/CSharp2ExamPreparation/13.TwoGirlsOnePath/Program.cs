@@ -6,7 +6,7 @@ class Program
 {
     static void Main()
     {
-        BigInteger[] cells = Console.ReadLine().Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries).Select(BigInteger.Parse).ToArray();
+        BigInteger[] cells = Console.ReadLine().Split().Select(BigInteger.Parse).ToArray();
         BigInteger dollyFlowers = 0;
         BigInteger mollyFlowers = 0;
         bool isDolly = false;
@@ -35,14 +35,20 @@ class Program
                 isMolly = true;
                 break;
             }
-            mollyFlowers += cells[i];
-            dollyFlowers += cells[j];
+
             BigInteger currentCellMolly = cells[i];
             BigInteger currentCellDolly = cells[j];
             cells[i] = 0;
             cells[j] = 0;
+            mollyFlowers += currentCellMolly;
+            dollyFlowers += currentCellDolly;
+
             i = (int)((i + currentCellMolly) % (cells.Length));
             j = (int)((j - currentCellDolly) % (cells.Length));
+            if (j < 0)
+            {
+                j += cells.Length;
+            }
 
             if (i == j)
             {
@@ -62,6 +68,8 @@ class Program
                 j = (int)((j - currentCellDolly) % (cells.Length));
             }
         }
+
+        // Print Result
         if (isDolly)
         {
             Console.WriteLine("Dolly");

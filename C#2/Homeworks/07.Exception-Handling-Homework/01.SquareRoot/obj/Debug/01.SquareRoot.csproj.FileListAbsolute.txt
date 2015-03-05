@@ -1,6 +1,0 @@
-C:\Users\Envy\Visual Studio Pro 2012\Projects\07.Exception-Handling-Homework\01.SquareRoot\bin\Debug\01.SquareRoot.exe.config
-C:\Users\Envy\Visual Studio Pro 2012\Projects\07.Exception-Handling-Homework\01.SquareRoot\bin\Debug\01.SquareRoot.exe
-C:\Users\Envy\Visual Studio Pro 2012\Projects\07.Exception-Handling-Homework\01.SquareRoot\bin\Debug\01.SquareRoot.pdb
-C:\Users\Envy\Visual Studio Pro 2012\Projects\07.Exception-Handling-Homework\01.SquareRoot\obj\Debug\01.SquareRoot.csprojResolveAssemblyReference.cache
-C:\Users\Envy\Visual Studio Pro 2012\Projects\07.Exception-Handling-Homework\01.SquareRoot\obj\Debug\01.SquareRoot.exe
-C:\Users\Envy\Visual Studio Pro 2012\Projects\07.Exception-Handling-Homework\01.SquareRoot\obj\Debug\01.SquareRoot.pdb

@@ -1,6 +1,0 @@
-C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\02.Multidimensional-Arrays-Homework\06.ClassMatrix\bin\Debug\06.ClassMatrix.exe.config
-C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\02.Multidimensional-Arrays-Homework\06.ClassMatrix\bin\Debug\06.ClassMatrix.exe
-C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\02.Multidimensional-Arrays-Homework\06.ClassMatrix\bin\Debug\06.ClassMatrix.pdb
-C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\02.Multidimensional-Arrays-Homework\06.ClassMatrix\obj\Debug\06.ClassMatrix.csprojResolveAssemblyReference.cache
-C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\02.Multidimensional-Arrays-Homework\06.ClassMatrix\obj\Debug\06.ClassMatrix.exe
-C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#2\Homeworks\02.Multidimensional-Arrays-Homework\06.ClassMatrix\obj\Debug\06.ClassMatrix.pdb

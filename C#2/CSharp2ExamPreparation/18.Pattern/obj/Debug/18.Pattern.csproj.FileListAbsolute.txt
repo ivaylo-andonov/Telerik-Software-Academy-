@@ -1,6 +1,0 @@
-C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPreparation\18.Pattern\bin\Debug\18.Pattern.exe.config
-C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPreparation\18.Pattern\bin\Debug\18.Pattern.exe
-C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPreparation\18.Pattern\bin\Debug\18.Pattern.pdb
-C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPreparation\18.Pattern\obj\Debug\18.Pattern.csprojResolveAssemblyReference.cache
-C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPreparation\18.Pattern\obj\Debug\18.Pattern.exe
-C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPreparation\18.Pattern\obj\Debug\18.Pattern.pdb

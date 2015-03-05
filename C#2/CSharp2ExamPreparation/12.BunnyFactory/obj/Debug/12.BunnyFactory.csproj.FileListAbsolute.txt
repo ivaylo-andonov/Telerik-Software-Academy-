@@ -1,6 +1,0 @@
-C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPreparation\12.BunnyFactory\bin\Debug\12.BunnyFactory.exe.config
-C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPreparation\12.BunnyFactory\bin\Debug\12.BunnyFactory.exe
-C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPreparation\12.BunnyFactory\bin\Debug\12.BunnyFactory.pdb
-C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPreparation\12.BunnyFactory\obj\Debug\12.BunnyFactory.csprojResolveAssemblyReference.cache
-C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPreparation\12.BunnyFactory\obj\Debug\12.BunnyFactory.exe
-C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPreparation\12.BunnyFactory\obj\Debug\12.BunnyFactory.pdb

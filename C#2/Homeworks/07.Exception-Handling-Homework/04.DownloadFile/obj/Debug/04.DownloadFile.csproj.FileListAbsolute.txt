@@ -1,5 +1,0 @@
-C:\Users\Envy\Visual Studio Pro 2012\Projects\07.Exception-Handling-Homework\04.DownloadFile\bin\Debug\04.DownloadFile.exe.config
-C:\Users\Envy\Visual Studio Pro 2012\Projects\07.Exception-Handling-Homework\04.DownloadFile\bin\Debug\04.DownloadFile.exe
-C:\Users\Envy\Visual Studio Pro 2012\Projects\07.Exception-Handling-Homework\04.DownloadFile\bin\Debug\04.DownloadFile.pdb
-C:\Users\Envy\Visual Studio Pro 2012\Projects\07.Exception-Handling-Homework\04.DownloadFile\obj\Debug\04.DownloadFile.exe
-C:\Users\Envy\Visual Studio Pro 2012\Projects\07.Exception-Handling-Homework\04.DownloadFile\obj\Debug\04.DownloadFile.pdb

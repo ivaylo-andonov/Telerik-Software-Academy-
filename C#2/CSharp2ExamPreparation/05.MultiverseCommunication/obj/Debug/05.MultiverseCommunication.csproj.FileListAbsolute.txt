@@ -1,6 +1,0 @@
-C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPractice\05.MultiverseCommunication\bin\Debug\05.MultiverseCommunication.exe.config
-C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPractice\05.MultiverseCommunication\bin\Debug\05.MultiverseCommunication.exe
-C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPractice\05.MultiverseCommunication\bin\Debug\05.MultiverseCommunication.pdb
-C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPractice\05.MultiverseCommunication\obj\Debug\05.MultiverseCommunication.exe
-C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPractice\05.MultiverseCommunication\obj\Debug\05.MultiverseCommunication.pdb
-C:\Users\Envy\Visual Studio Pro 2012\Projects\CSharp2ExamPractice\05.MultiverseCommunication\obj\Debug\05.MultiverseCommunication.csprojResolveAssemblyReference.cache
