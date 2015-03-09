@@ -1,5 +1,5 @@
 
-Telerik Software Academy 2015 
+# Telerik Software Academy 2015 
 
 http://academy.telerik.com
 http://telerikacademy.com
