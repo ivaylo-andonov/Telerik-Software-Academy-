@@ -1,0 +1,6 @@
+C:\Users\Envy\Visual Studio Pro 2012\Projects\02.Defining-Classes-Part2-Homework\02.GenericClass(5-7)\bin\Debug\02.GenericClass(5-7).exe.config
+C:\Users\Envy\Visual Studio Pro 2012\Projects\02.Defining-Classes-Part2-Homework\02.GenericClass(5-7)\bin\Debug\02.GenericClass(5-7).exe
+C:\Users\Envy\Visual Studio Pro 2012\Projects\02.Defining-Classes-Part2-Homework\02.GenericClass(5-7)\bin\Debug\02.GenericClass(5-7).pdb
+C:\Users\Envy\Visual Studio Pro 2012\Projects\02.Defining-Classes-Part2-Homework\02.GenericClass(5-7)\obj\Debug\02.GenericClass(5-7).csprojResolveAssemblyReference.cache
+C:\Users\Envy\Visual Studio Pro 2012\Projects\02.Defining-Classes-Part2-Homework\02.GenericClass(5-7)\obj\Debug\02.GenericClass(5-7).exe
+C:\Users\Envy\Visual Studio Pro 2012\Projects\02.Defining-Classes-Part2-Homework\02.GenericClass(5-7)\obj\Debug\02.GenericClass(5-7).pdb
