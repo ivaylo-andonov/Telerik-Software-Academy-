@@ -14,8 +14,11 @@ namespace _01.DefineClass
             //Print the Iphone4S Static
             GSMTest.PrintIphone4S();
 
+            GSM my = new GSM("Model", Manufacturer.APPLE, 1000.00);
+            Console.WriteLine(my.ToString());
+
             // Test the mobile phones specifics, you can change the number of GSM-s from the number in method GeneratorGSM()
-            GSMTest.PrintGSMGenerator(GSMTest.GeneratorGSM(3));
+            GSMTest.PrintGSMGenerator(GSMTest.GeneratorGSM(6));
 
 
             //Problem 12 Solved

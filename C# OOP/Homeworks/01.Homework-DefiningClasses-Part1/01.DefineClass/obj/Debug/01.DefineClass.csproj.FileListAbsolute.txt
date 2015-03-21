@@ -4,6 +4,9 @@ C:\Users\Envy\Visual Studio Pro 2012\Projects\01.Homework-DefiningClasses-Part1\
 C:\Users\Envy\Visual Studio Pro 2012\Projects\01.Homework-DefiningClasses-Part1\01.DefineClass\bin\Debug\01.DefineClass.pdb
 C:\Users\Envy\Visual Studio Pro 2012\Projects\01.Homework-DefiningClasses-Part1\01.DefineClass\obj\Debug\01.DefineClass.exe
 C:\Users\Envy\Visual Studio Pro 2012\Projects\01.Homework-DefiningClasses-Part1\01.DefineClass\obj\Debug\01.DefineClass.pdb
-C:\Users\Envy\GitHub\Telerik-Software-Academy-\C# OOP\Homeworks\01.Homework-DefiningClasses-Part1\01.DefineClass\bin\Debug\01.DefineClass.exe.config
-C:\Users\Envy\GitHub\Telerik-Software-Academy-\C# OOP\Homeworks\01.Homework-DefiningClasses-Part1\01.DefineClass\obj\Debug\01.DefineClass.exe
-C:\Users\Envy\GitHub\Telerik-Software-Academy-\C# OOP\Homeworks\01.Homework-DefiningClasses-Part1\01.DefineClass\obj\Debug\01.DefineClass.pdb
+C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#OOP\Homeworks\01.Homework-DefiningClasses-Part1\01.DefineClass\bin\Debug\01.DefineClass.exe.config
+C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#OOP\Homeworks\01.Homework-DefiningClasses-Part1\01.DefineClass\obj\Debug\01.DefineClass.exe
+C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#OOP\Homeworks\01.Homework-DefiningClasses-Part1\01.DefineClass\obj\Debug\01.DefineClass.pdb
+C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#OOP\Homeworks\01.Homework-DefiningClasses-Part1\01.DefineClass\bin\Debug\01.DefineClass.exe
+C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#OOP\Homeworks\01.Homework-DefiningClasses-Part1\01.DefineClass\bin\Debug\01.DefineClass.pdb
+C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#OOP\Homeworks\01.Homework-DefiningClasses-Part1\01.DefineClass\obj\Debug\01.DefineClass.csprojResolveAssemblyReference.cache

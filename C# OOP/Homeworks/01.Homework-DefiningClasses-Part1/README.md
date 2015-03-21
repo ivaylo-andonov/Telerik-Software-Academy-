@@ -1,3 +1,4 @@
+
 Homework: Defining Classes - Part 1
 ===================================
 
@@ -10,7 +11,7 @@ Homework: Defining Classes - Part 1
 *	Assume that model and manufacturer are mandatory (the others are optional). All unknown data fill with null.
 
 ### Problem 3. Enumeration
-*	Add an enumeration `BatteryType` (Li-Ion, NiMH, NiCd, …) and use it as a new field for the batteries.
+*	Add an enumeration `BatteryType` (Li-Ion, NiMH, NiCd,  ) and use it as a new field for the batteries.
 
 ### Problem 4. ToString
 *	Add a method in the `GSM` class for displaying all information about it.

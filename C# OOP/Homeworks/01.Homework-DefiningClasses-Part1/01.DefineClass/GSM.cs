@@ -1,6 +1,7 @@
 ﻿namespace _01.DefineClass
 {
     using System;
+    using System.Text;
     using System.Collections.Generic;
 
     public class GSM
@@ -161,7 +162,7 @@
             }
         }
 
-        public List<Call> CallHistory  // Problem 9
+        public List<Call> CallHistory       // Problem 9
         {
             get
             {
@@ -176,21 +177,20 @@
         // Override method ToString()
         public override string ToString()     // Problem 4
         {
+            StringBuilder result = new StringBuilder();
+            result.AppendLine(new string('=', 50) + "\n" + "Mobile phone:\n" + new string('-', 13) + "\n");
+            result.AppendLine(string.Format("Model : {0}", this.model));
+            result.AppendLine(string.Format("Manifacturer : {0}", this.manufacturer));
+            result.AppendLine(string.Format("Price : {0}", this.price));
+            result.AppendLine(string.Format("Owner : {0}", this.owner));
+            result.AppendLine("\nBattery specifications:");
+            result.AppendLine(new string('-',23));
+            result.AppendLine(string.Format("{0}",this.Battery));
+            result.AppendLine("\nDisplay specifications:");
+            result.AppendLine(new string('-', 23));
+            result.AppendLine(string.Format("{0}", this.Display));
 
-            return String.Format(new string('=', 50) + "\n" +
-                                 "Mobile phone:\n" +  
-                                 new string('-',13) + "\n" +
-                                 "Model: {1}\n" +
-                                 "Manifacturer: {0}\n" +
-                                 "Price: {2:C}\n" +
-                                 "Owner: {3}\n" +
-                                 "\nBattery specifications:\n" +
-                                 new string('-',23) + 
-                                 "\n" + "{4}\n" +
-                                 "\nDisplay specifications:\n" +
-                                 new string('-',23) + "\n" + "{5}\n",
-                                 this.Manufacturer, this.Model, this.Price, this.Owner,
-                                 this.Battery.ToString(), this.Display.ToString());
+            return result.ToString();
         }
 
         // Create methods Add/Remove/Clear calls in history     Problem 10
