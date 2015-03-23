@@ -1,0 +1,6 @@
+C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-ExtensionMethodsLambdaLINQ\06.Events\bin\Debug\06.Events.exe.config
+C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-ExtensionMethodsLambdaLINQ\06.Events\bin\Debug\06.Events.exe
+C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-ExtensionMethodsLambdaLINQ\06.Events\bin\Debug\06.Events.pdb
+C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-ExtensionMethodsLambdaLINQ\06.Events\obj\Debug\06.Events.csprojResolveAssemblyReference.cache
+C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-ExtensionMethodsLambdaLINQ\06.Events\obj\Debug\06.Events.exe
+C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-ExtensionMethodsLambdaLINQ\06.Events\obj\Debug\06.Events.pdb
