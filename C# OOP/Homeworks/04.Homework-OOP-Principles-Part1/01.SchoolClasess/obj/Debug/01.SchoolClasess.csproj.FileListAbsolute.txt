@@ -1,0 +1,6 @@
+C:\Users\Envy\Visual Studio Pro 2012\Projects\04.Homework-OOP-Principles-Part1\01.SchoolClasess\bin\Debug\01.SchoolClasess.exe.config
+C:\Users\Envy\Visual Studio Pro 2012\Projects\04.Homework-OOP-Principles-Part1\01.SchoolClasess\obj\Debug\01.SchoolClasess.csprojResolveAssemblyReference.cache
+C:\Users\Envy\Visual Studio Pro 2012\Projects\04.Homework-OOP-Principles-Part1\01.SchoolClasess\bin\Debug\01.SchoolClasess.exe
+C:\Users\Envy\Visual Studio Pro 2012\Projects\04.Homework-OOP-Principles-Part1\01.SchoolClasess\bin\Debug\01.SchoolClasess.pdb
+C:\Users\Envy\Visual Studio Pro 2012\Projects\04.Homework-OOP-Principles-Part1\01.SchoolClasess\obj\Debug\01.SchoolClasess.exe
+C:\Users\Envy\Visual Studio Pro 2012\Projects\04.Homework-OOP-Principles-Part1\01.SchoolClasess\obj\Debug\01.SchoolClasess.pdb

@@ -1,0 +1,6 @@
+C:\Users\Envy\Visual Studio Pro 2012\Projects\04.Homework-OOP-Principles-Part1\03.AnimalHierarchy\bin\Debug\03.AnimalHierarchy.exe.config
+C:\Users\Envy\Visual Studio Pro 2012\Projects\04.Homework-OOP-Principles-Part1\03.AnimalHierarchy\obj\Debug\03.AnimalHierarchy.csprojResolveAssemblyReference.cache
+C:\Users\Envy\Visual Studio Pro 2012\Projects\04.Homework-OOP-Principles-Part1\03.AnimalHierarchy\bin\Debug\03.AnimalHierarchy.exe
+C:\Users\Envy\Visual Studio Pro 2012\Projects\04.Homework-OOP-Principles-Part1\03.AnimalHierarchy\bin\Debug\03.AnimalHierarchy.pdb
+C:\Users\Envy\Visual Studio Pro 2012\Projects\04.Homework-OOP-Principles-Part1\03.AnimalHierarchy\obj\Debug\03.AnimalHierarchy.exe
+C:\Users\Envy\Visual Studio Pro 2012\Projects\04.Homework-OOP-Principles-Part1\03.AnimalHierarchy\obj\Debug\03.AnimalHierarchy.pdb

@@ -1,0 +1,6 @@
+C:\Users\Envy\Visual Studio Pro 2012\Projects\04.Homework-OOP-Principles-Part1\02.StudentsAndWorkers\bin\Debug\02.StudentsAndWorkers.exe.config
+C:\Users\Envy\Visual Studio Pro 2012\Projects\04.Homework-OOP-Principles-Part1\02.StudentsAndWorkers\bin\Debug\02.StudentsAndWorkers.exe
+C:\Users\Envy\Visual Studio Pro 2012\Projects\04.Homework-OOP-Principles-Part1\02.StudentsAndWorkers\bin\Debug\02.StudentsAndWorkers.pdb
+C:\Users\Envy\Visual Studio Pro 2012\Projects\04.Homework-OOP-Principles-Part1\02.StudentsAndWorkers\obj\Debug\02.StudentsAndWorkers.csprojResolveAssemblyReference.cache
+C:\Users\Envy\Visual Studio Pro 2012\Projects\04.Homework-OOP-Principles-Part1\02.StudentsAndWorkers\obj\Debug\02.StudentsAndWorkers.exe
+C:\Users\Envy\Visual Studio Pro 2012\Projects\04.Homework-OOP-Principles-Part1\02.StudentsAndWorkers\obj\Debug\02.StudentsAndWorkers.pdb
