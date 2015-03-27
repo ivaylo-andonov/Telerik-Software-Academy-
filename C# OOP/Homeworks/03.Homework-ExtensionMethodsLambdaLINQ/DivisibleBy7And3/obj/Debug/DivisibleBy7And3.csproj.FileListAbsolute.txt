@@ -1,6 +1,0 @@
-C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-ExtensionMethodsLambdaLINQ\DivisibleBy7And3\bin\Debug\DivisibleBy7And3.exe.config
-C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-ExtensionMethodsLambdaLINQ\DivisibleBy7And3\bin\Debug\DivisibleBy7And3.exe
-C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-ExtensionMethodsLambdaLINQ\DivisibleBy7And3\bin\Debug\DivisibleBy7And3.pdb
-C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-ExtensionMethodsLambdaLINQ\DivisibleBy7And3\obj\Debug\DivisibleBy7And3.csprojResolveAssemblyReference.cache
-C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-ExtensionMethodsLambdaLINQ\DivisibleBy7And3\obj\Debug\DivisibleBy7And3.exe
-C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-ExtensionMethodsLambdaLINQ\DivisibleBy7And3\obj\Debug\DivisibleBy7And3.pdb

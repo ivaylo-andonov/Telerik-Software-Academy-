@@ -1,0 +1,5 @@
+C:\Users\Envy\Visual Studio Pro 2012\Projects\06.Homework-Common-Type-System\01.StudentClass\bin\Debug\01.StudentClass.exe.config
+C:\Users\Envy\Visual Studio Pro 2012\Projects\06.Homework-Common-Type-System\01.StudentClass\bin\Debug\01.StudentClass.exe
+C:\Users\Envy\Visual Studio Pro 2012\Projects\06.Homework-Common-Type-System\01.StudentClass\bin\Debug\01.StudentClass.pdb
+C:\Users\Envy\Visual Studio Pro 2012\Projects\06.Homework-Common-Type-System\01.StudentClass\obj\Debug\01.StudentClass.exe
+C:\Users\Envy\Visual Studio Pro 2012\Projects\06.Homework-Common-Type-System\01.StudentClass\obj\Debug\01.StudentClass.pdb

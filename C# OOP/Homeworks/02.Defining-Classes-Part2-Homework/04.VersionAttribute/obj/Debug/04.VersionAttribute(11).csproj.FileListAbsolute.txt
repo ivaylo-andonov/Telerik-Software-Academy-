@@ -1,6 +1,0 @@
-C:\Users\Envy\Visual Studio Pro 2012\Projects\02.Defining-Classes-Part2-Homework\04.VersionAttribute\bin\Debug\04.VersionAttribute.exe.config
-C:\Users\Envy\Visual Studio Pro 2012\Projects\02.Defining-Classes-Part2-Homework\04.VersionAttribute\bin\Debug\04.VersionAttribute.exe
-C:\Users\Envy\Visual Studio Pro 2012\Projects\02.Defining-Classes-Part2-Homework\04.VersionAttribute\bin\Debug\04.VersionAttribute.pdb
-C:\Users\Envy\Visual Studio Pro 2012\Projects\02.Defining-Classes-Part2-Homework\04.VersionAttribute\obj\Debug\04.VersionAttribute(11).csprojResolveAssemblyReference.cache
-C:\Users\Envy\Visual Studio Pro 2012\Projects\02.Defining-Classes-Part2-Homework\04.VersionAttribute\obj\Debug\04.VersionAttribute.exe
-C:\Users\Envy\Visual Studio Pro 2012\Projects\02.Defining-Classes-Part2-Homework\04.VersionAttribute\obj\Debug\04.VersionAttribute.pdb

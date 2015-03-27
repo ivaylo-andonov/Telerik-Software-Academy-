@@ -1,6 +1,0 @@
-C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-ExtensionMethodsLambdaLINQ\08.LongestString(17)\bin\Debug\08.LongestString(17).exe.config
-C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-ExtensionMethodsLambdaLINQ\08.LongestString(17)\obj\Debug\08.LongestString(17).csprojResolveAssemblyReference.cache
-C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-ExtensionMethodsLambdaLINQ\08.LongestString(17)\bin\Debug\08.LongestString(17).exe
-C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-ExtensionMethodsLambdaLINQ\08.LongestString(17)\bin\Debug\08.LongestString(17).pdb
-C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-ExtensionMethodsLambdaLINQ\08.LongestString(17)\obj\Debug\08.LongestString(17).exe
-C:\Users\Envy\Visual Studio Pro 2012\Projects\03.Homework-ExtensionMethodsLambdaLINQ\08.LongestString(17)\obj\Debug\08.LongestString(17).pdb

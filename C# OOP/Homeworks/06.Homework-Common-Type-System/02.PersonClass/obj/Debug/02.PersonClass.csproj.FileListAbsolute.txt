@@ -1,0 +1,5 @@
+C:\Users\Envy\Visual Studio Pro 2012\Projects\06.Homework-Common-Type-System\02.PersonClass\bin\Debug\02.PersonClass.exe.config
+C:\Users\Envy\Visual Studio Pro 2012\Projects\06.Homework-Common-Type-System\02.PersonClass\bin\Debug\02.PersonClass.exe
+C:\Users\Envy\Visual Studio Pro 2012\Projects\06.Homework-Common-Type-System\02.PersonClass\bin\Debug\02.PersonClass.pdb
+C:\Users\Envy\Visual Studio Pro 2012\Projects\06.Homework-Common-Type-System\02.PersonClass\obj\Debug\02.PersonClass.exe
+C:\Users\Envy\Visual Studio Pro 2012\Projects\06.Homework-Common-Type-System\02.PersonClass\obj\Debug\02.PersonClass.pdb

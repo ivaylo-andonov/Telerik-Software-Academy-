@@ -1,6 +1,0 @@
-C:\Users\Envy\Visual Studio Pro 2012\Projects\02.Defining-Classes-Part2-Homework\03.MatrixT(8-10)\bin\Debug\03.MatrixT(8-10).exe.config
-C:\Users\Envy\Visual Studio Pro 2012\Projects\02.Defining-Classes-Part2-Homework\03.MatrixT(8-10)\bin\Debug\03.MatrixT(8-10).exe
-C:\Users\Envy\Visual Studio Pro 2012\Projects\02.Defining-Classes-Part2-Homework\03.MatrixT(8-10)\bin\Debug\03.MatrixT(8-10).pdb
-C:\Users\Envy\Visual Studio Pro 2012\Projects\02.Defining-Classes-Part2-Homework\03.MatrixT(8-10)\obj\Debug\03.MatrixT(8-10).csprojResolveAssemblyReference.cache
-C:\Users\Envy\Visual Studio Pro 2012\Projects\02.Defining-Classes-Part2-Homework\03.MatrixT(8-10)\obj\Debug\03.MatrixT(8-10).exe
-C:\Users\Envy\Visual Studio Pro 2012\Projects\02.Defining-Classes-Part2-Homework\03.MatrixT(8-10)\obj\Debug\03.MatrixT(8-10).pdb

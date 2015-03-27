@@ -1,6 +1,0 @@
-C:\Users\Envy\Visual Studio Pro 2012\Projects\02.Defining-Classes-Part2-Homework\01.Task3D(1-4)\bin\Debug\01.Task3D(1-4).exe.config
-C:\Users\Envy\Visual Studio Pro 2012\Projects\02.Defining-Classes-Part2-Homework\01.Task3D(1-4)\obj\Debug\01.Task3D(1-4).csprojResolveAssemblyReference.cache
-C:\Users\Envy\Visual Studio Pro 2012\Projects\02.Defining-Classes-Part2-Homework\01.Task3D(1-4)\bin\Debug\01.Task3D(1-4).exe
-C:\Users\Envy\Visual Studio Pro 2012\Projects\02.Defining-Classes-Part2-Homework\01.Task3D(1-4)\bin\Debug\01.Task3D(1-4).pdb
-C:\Users\Envy\Visual Studio Pro 2012\Projects\02.Defining-Classes-Part2-Homework\01.Task3D(1-4)\obj\Debug\01.Task3D(1-4).exe
-C:\Users\Envy\Visual Studio Pro 2012\Projects\02.Defining-Classes-Part2-Homework\01.Task3D(1-4)\obj\Debug\01.Task3D(1-4).pdb
