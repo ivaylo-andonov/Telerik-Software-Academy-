@@ -1,0 +1,5 @@
+C:\Users\Envy\GitHub\Telerik-Software-Academy-\C# OOP\ExamPreparation\OOP-Exam-25-March-2013-AcademyEcosystem\AcademyEcosystem\bin\Debug\AcademyEcosystem.exe
+C:\Users\Envy\GitHub\Telerik-Software-Academy-\C# OOP\ExamPreparation\OOP-Exam-25-March-2013-AcademyEcosystem\AcademyEcosystem\bin\Debug\AcademyEcosystem.pdb
+C:\Users\Envy\GitHub\Telerik-Software-Academy-\C# OOP\ExamPreparation\OOP-Exam-25-March-2013-AcademyEcosystem\AcademyEcosystem\obj\Debug\AcademyEcosystem.csprojResolveAssemblyReference.cache
+C:\Users\Envy\GitHub\Telerik-Software-Academy-\C# OOP\ExamPreparation\OOP-Exam-25-March-2013-AcademyEcosystem\AcademyEcosystem\obj\Debug\AcademyEcosystem.exe
+C:\Users\Envy\GitHub\Telerik-Software-Academy-\C# OOP\ExamPreparation\OOP-Exam-25-March-2013-AcademyEcosystem\AcademyEcosystem\obj\Debug\AcademyEcosystem.pdb

@@ -24,8 +24,7 @@
                     }
                 case "grass":
                     {
-                        string name = commandWords[2];
-                        Point position = Point.Parse(commandWords[3]);
+                        Point position = Point.Parse(commandWords[2]);
                         this.AddOrganism(new Grass(position));
                         break;
                     }
