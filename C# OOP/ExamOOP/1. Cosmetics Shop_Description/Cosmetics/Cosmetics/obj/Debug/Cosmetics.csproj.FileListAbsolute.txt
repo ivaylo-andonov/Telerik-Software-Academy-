@@ -4,3 +4,6 @@ C:\Users\Envy\Desktop\1. Cosmetics Shop_Description\Cosmetics\Cosmetics\bin\Debu
 C:\Users\Envy\Desktop\1. Cosmetics Shop_Description\Cosmetics\Cosmetics\obj\Debug\Cosmetics.csprojResolveAssemblyReference.cache
 C:\Users\Envy\Desktop\1. Cosmetics Shop_Description\Cosmetics\Cosmetics\obj\Debug\Cosmetics.exe
 C:\Users\Envy\Desktop\1. Cosmetics Shop_Description\Cosmetics\Cosmetics\obj\Debug\Cosmetics.pdb
+C:\Users\Envy\GitHub\Telerik-Software-Academy-\C# OOP\ExamOOP\1. Cosmetics Shop_Description\Cosmetics\Cosmetics\bin\Debug\Cosmetics.exe.config
+C:\Users\Envy\GitHub\Telerik-Software-Academy-\C# OOP\ExamOOP\1. Cosmetics Shop_Description\Cosmetics\Cosmetics\obj\Debug\Cosmetics.exe
+C:\Users\Envy\GitHub\Telerik-Software-Academy-\C# OOP\ExamOOP\1. Cosmetics Shop_Description\Cosmetics\Cosmetics\obj\Debug\Cosmetics.pdb
