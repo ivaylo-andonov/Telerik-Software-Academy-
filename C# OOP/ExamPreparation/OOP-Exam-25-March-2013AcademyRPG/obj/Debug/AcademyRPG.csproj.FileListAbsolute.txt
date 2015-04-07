@@ -1,0 +1,10 @@
+C:\Users\Envy\Desktop\Object-Oriented-Programming\OOPExamProblems\OOP-Exam-March-2013-Variant-1\AcademyRPG-Skeleton\bin\Debug\AcademyRPG.exe
+C:\Users\Envy\Desktop\Object-Oriented-Programming\OOPExamProblems\OOP-Exam-March-2013-Variant-1\AcademyRPG-Skeleton\bin\Debug\AcademyRPG.pdb
+C:\Users\Envy\Desktop\Object-Oriented-Programming\OOPExamProblems\OOP-Exam-March-2013-Variant-1\AcademyRPG-Skeleton\obj\Debug\AcademyRPG.csprojResolveAssemblyReference.cache
+C:\Users\Envy\Desktop\Object-Oriented-Programming\OOPExamProblems\OOP-Exam-March-2013-Variant-1\AcademyRPG-Skeleton\obj\Debug\AcademyRPG.exe
+C:\Users\Envy\Desktop\Object-Oriented-Programming\OOPExamProblems\OOP-Exam-March-2013-Variant-1\AcademyRPG-Skeleton\obj\Debug\AcademyRPG.pdb
+C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#OOP\ExamPreparation\AcademyRPG-Solved\obj\Debug\AcademyRPG.exe
+C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#OOP\ExamPreparation\AcademyRPG-Solved\obj\Debug\AcademyRPG.pdb
+C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#OOP\ExamPreparation\AcademyRPG-Solved\obj\Debug\AcademyRPG.csprojResolveAssemblyReference.cache
+C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#OOP\ExamPreparation\AcademyRPG-Solved\bin\Debug\AcademyRPG.exe
+C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\C#OOP\ExamPreparation\AcademyRPG-Solved\bin\Debug\AcademyRPG.pdb

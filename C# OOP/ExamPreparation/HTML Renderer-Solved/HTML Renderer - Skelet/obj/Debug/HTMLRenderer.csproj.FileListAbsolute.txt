@@ -1,0 +1,6 @@
+C:\Users\Envy\Desktop\1. HTML Renderer_Скелет на задачата\obj\Debug\HTMLRenderer.csprojResolveAssemblyReference.cache
+C:\Users\Envy\Desktop\HTML Renderer-Solved\bin\Debug\HTMLRenderer.exe
+C:\Users\Envy\Desktop\HTML Renderer-Solved\bin\Debug\HTMLRenderer.pdb
+C:\Users\Envy\Desktop\HTML Renderer-Solved\obj\Debug\HTMLRenderer.csprojResolveAssemblyReference.cache
+C:\Users\Envy\Desktop\HTML Renderer-Solved\obj\Debug\HTMLRenderer.exe
+C:\Users\Envy\Desktop\HTML Renderer-Solved\obj\Debug\HTMLRenderer.pdb
