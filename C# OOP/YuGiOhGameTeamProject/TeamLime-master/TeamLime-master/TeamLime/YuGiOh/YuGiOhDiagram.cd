@@ -1,0 +1,395 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="YuGiOh.YuGiOhGameMainUI" Collapsed="true">
+    <Position X="25.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>YuGiOhGameMainUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YuGiOh.YuGiOhGame" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="23.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAEAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>YuGiOhGame.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="YuGiOh.Graveyard" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="20.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAIAAAAAAAAAAAAQAAAACAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Graveyard.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="YuGiOh.Deck" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="25.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQABAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Deck.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="YuGiOh.BattleField" Collapsed="true">
+    <Position X="20.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BattleField.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YuGiOh.Players.FirstHero" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="25.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAACAEACAAAAAcAAQAEkBAAAAAAAAAQAAA=</HashCode>
+      <FileName>Players\FirstHero.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="YuGiOh.Players.SecondHero" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="22" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAACAEACCAAAAcAAQAEEAAAEAAAAAAQAAA=</HashCode>
+      <FileName>Players\SecondHero.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="YuGiOh.Extensions.ExtendedGameExeption" Collapsed="true">
+    <Position X="22" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Extensions\ExtendedGameExeption.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YuGiOh.Extensions.Observable" Collapsed="true">
+    <Position X="22" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Extensions\ExtendedGameExeption.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YuGiOh.Extensions.Observer" Collapsed="true">
+    <Position X="23.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Extensions\ExtendedGameExeption.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YuGiOh.Extensions.OnProblem" Collapsed="true">
+    <Position X="25.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Extensions\ExtendedGameExeption.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YuGiOh.Extensions.RandomProvider" Collapsed="true">
+    <Position X="20.25" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Extensions\RandomProvider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YuGiOh.Extensions.EnumerableExtensions" Collapsed="true">
+    <Position X="20.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Extensions\ShuffleTheDeck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YuGiOh.Extensions.Helper.Constants" Collapsed="true">
+    <Position X="23.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAgAgQAARAAIAACgAAggAAAIgAAAAgABAAAIAAA=</HashCode>
+      <FileName>Extensions\Helper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YuGiOh.Engine.CommandReader" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="22" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAEAAAAAAAAAAAAAAAgAAAAAABCQAAAAAAAA=</HashCode>
+      <FileName>Engine\CommandReader.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="YuGiOh.Engine.FieldManager" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="23.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAADIACAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Engine\FieldManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="YuGiOh.Cards.Card" Collapsed="true">
+    <Position X="17.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAEAAAgAAAAIAAAAQIAAAAAAAAABAA=</HashCode>
+      <FileName>Cards\Card.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="YuGiOh.Cards.Monster" Collapsed="true">
+    <Position X="6.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAEAgAAAAAAAIEAAQCBAAAAAgAAAAI=</HashCode>
+      <FileName>Cards\Monster.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="YuGiOh.Cards.Spell" Collapsed="true">
+    <Position X="19.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAQAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cards\Spell.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="YuGiOh.Cards.Trap" Collapsed="true">
+    <Position X="31" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAEAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cards\Trap.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="YuGiOh.Cards.Monsters.ArchfiendSoldier" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAEAAACAAAAAAAAABAI=</HashCode>
+      <FileName>Cards\Monsters\ArchfiendSoldier.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="YuGiOh.Cards.Monsters.EkzodiA" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAFAAACAQAAAAAAABAI=</HashCode>
+      <FileName>Cards\Monsters\EkzodiA.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="YuGiOh.Cards.Monsters.GeminiElf" Collapsed="true">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAEAAACAAAAAAAAABAI=</HashCode>
+      <FileName>Cards\Monsters\GeminiElf.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="YuGiOh.Cards.Monsters.GeneWarpedWarwolf" Collapsed="true">
+    <Position X="11.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAEAAACAAAAAAAAABAI=</HashCode>
+      <FileName>Cards\Monsters\GeneWarpedWarwolf.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="YuGiOh.Cards.Monsters.MadDogOfDarkness" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAEAAACAAAAAAAAABAI=</HashCode>
+      <FileName>Cards\Monsters\MadDogOfDarkness.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="YuGiOh.Cards.Monsters.VorseRaider" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAEAAACAAAAAAAAABAI=</HashCode>
+      <FileName>Cards\Monsters\VorseRaider.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="YuGiOh.Cards.SpellCards.DoubleSummon" Collapsed="true">
+    <Position X="14" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Cards\SpellCards\DoubleSummon.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="YuGiOh.Cards.SpellCards.LightningVortex" Collapsed="true">
+    <Position X="16.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Cards\SpellCards\LightningVortex.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="YuGiOh.Cards.SpellCards.MysticalSpaceTyphoon" Collapsed="true">
+    <Position X="18.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Cards\SpellCards\MysticalSpaceTyphoon.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="YuGiOh.Cards.SpellCards.PotOfGreed" Collapsed="true">
+    <Position X="20.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Cards\SpellCards\PotOfGreed.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="YuGiOh.Cards.SpellCards.Raigeki" Collapsed="true">
+    <Position X="23" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Cards\SpellCards\Raigeki.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="YuGiOh.Cards.SpellCards.SwordsOfRevealingLight" Collapsed="true">
+    <Position X="25.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Cards\SpellCards\SwordsOfRevealingLight.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="YuGiOh.Cards.TrapCards.DivineWrath" Collapsed="true">
+    <Position X="27.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Cards\TrapCards\DivineWrath.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="YuGiOh.Cards.TrapCards.MirrorForce" Collapsed="true">
+    <Position X="29.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Cards\TrapCards\MirrorForce.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="YuGiOh.Cards.TrapCards.NegateAttack" Collapsed="true">
+    <Position X="32" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Cards\TrapCards\NegateAttack.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="YuGiOh.Cards.TrapCards.WallOfRevealingLight" Collapsed="true">
+    <Position X="34.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Cards\TrapCards\WallOfRevealingLight.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Struct Name="YuGiOh.Extensions.CardId" Collapsed="true">
+    <Position X="7.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAQ=</HashCode>
+      <FileName>Extensions\CardId.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="YuGiOh.Players.IPlayer" Collapsed="true">
+    <Position X="12.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="YuGiOh.Interfaces.ICard" Collapsed="true">
+    <Position X="7.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAgAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\ICard.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="YuGiOh.Interfaces.IDeck" Collapsed="true">
+    <Position X="10.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Interfaces\IDeck.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="YuGiOh.Interfaces.IField" Collapsed="true">
+    <Position X="12.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IField.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="YuGiOh.Interfaces.IGraveyard" Collapsed="true">
+    <Position X="9" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IGraveyard.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="YuGiOh.Interfaces.IMonster" Collapsed="true">
+    <Position X="10.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAAAAAIAAAAABAAAAAgAAAAA=</HashCode>
+      <FileName>Interfaces\IMonster.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="YuGiOh.Interfaces.ISpell" Collapsed="true">
+    <Position X="7.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\ISpell.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="YuGiOh.Interfaces.ITrap" Collapsed="true">
+    <Position X="9" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\ITrap.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="YuGiOh.Interfaces.IYuGiOhGame" Collapsed="true">
+    <Position X="10.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAEAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IYuGiOhGame.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="YuGiOh.Engine.ICommandReader" Collapsed="true">
+    <Position X="9" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Engine\ICommandReader.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="YuGiOh.Engine.IFieldManager" Collapsed="true">
+    <Position X="7.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAAIAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Engine\IFieldManger.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="YuGiOh.SpellTypes" Collapsed="true">
+    <Position X="10.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAIAAAgAAAAAAAAgQA=</HashCode>
+      <FileName>Cards\SpellTypes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="YuGiOh.TrapTypes" Collapsed="true">
+    <Position X="12.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAQAIAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Cards\TrapTypes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="YuGiOh.Extensions.PlayerIndentifier" Collapsed="true">
+    <Position X="9" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Extensions\PlayerIndentifier.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="YuGiOh.Cards.MonsterAttribute" Collapsed="true">
+    <Position X="7.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAgAAAAAkAABAAAAEAAAAAAA=</HashCode>
+      <FileName>Cards\MonsterAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -16,7 +16,7 @@
         {
             if (ingredients.Any(i => i.Length < 4 || i.Length > 12))
             {
-                throw new IndexOutOfRangeException("Ingredient");
+                throw new IndexOutOfRangeException(string.Format(GlobalErrorMessages.InvalidStringLength, "Each ingredient", 4, 12));
             }
 
             this.ingredients = ingredients;

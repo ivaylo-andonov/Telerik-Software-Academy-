@@ -33,7 +33,7 @@
 
         public string Brand
         {
-            get { return this.name; }
+            get { return this.brand; }
 
             private set
             {
@@ -62,7 +62,7 @@
         public virtual string Print()
         {            
             var result = new StringBuilder();
-            result.AppendLine(string.Format("- {0} - {1}:",this.brand,this.name));
+            result.AppendLine(string.Format("- {0} - {1}:",this.Brand,this.Name));
             result.Append(string.Format("  * Price: ${0}\n  * For gender: {1}",this.Price,this.Gender.ToString()));
 
             return result.ToString().TrimEnd();

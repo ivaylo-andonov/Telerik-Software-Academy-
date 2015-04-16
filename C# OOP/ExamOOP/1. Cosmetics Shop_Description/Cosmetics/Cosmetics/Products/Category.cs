@@ -32,12 +32,13 @@
 
         public void AddCosmetics(IProduct cosmetics)
         {
-            Extensions.Validator.CheckForNullOrEmpty(cosmetics);
+            Validator.CheckIfNull(cosmetics, string.Format(GlobalErrorMessages.ObjectCannotBeNull, "Cosmetics to add to category"));
             this.listOfProducts.Add(cosmetics);
         }
 
         public void RemoveCosmetics(IProduct cosmetics)
         {
+            Validator.CheckIfNull(cosmetics, string.Format(GlobalErrorMessages.ObjectCannotBeNull, "Cosmetics to remove from category"));
             if (!this.listOfProducts.Contains(cosmetics))
             {
                 throw new InvalidOperationException(string.Format("Product {0} does not exist in category {1}!", cosmetics.Name, this.Name));
