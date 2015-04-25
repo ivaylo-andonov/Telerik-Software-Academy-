@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Html Calculator</title>
+    <style>
+        #display {
+            color: #58FAF4;
+            background-color: #f1fbfa;
+            font-family: Consolas;
+            font-weight: bold;
+            font-size: 45px;
+            width: 292px;
+            height: 75px;
+            text-align: right;
+            display: inline-block;
+            border: none;
+            text-shadow: 2px 2px 3px #808080;
+        }
+
+        button {
+            color: #58FAF4;
+            background-color: #f1fbfa;
+            border: none;
+            font-family: Consolas;
+            font-weight: bold;
+            font-size: 45px;
+            width: 70px;
+            height: 75px;
+            text-shadow: 2px 2px 3px #808080;
+        }
+
+        #zeroButton {
+            color: #58FAF4;
+            background-color: #f1fbfa;
+            border: none;
+            font-family: Consolas;
+            font-weight: bold;
+            font-size: 45px;
+            width: 145px;
+            height: 75px;
+            text-shadow: 2px 2px 3px #808080;
+        }
+
+        td {
+            border: 2px solid #58FAF4;
+        }
+
+        table {
+            border-collapse: collapse;
+        }
+    </style>
+</head>
+<body>
+    <form>
+        <table>
+            <tr>
+                <td colspan="4">
+                    <input type="text" id="display" value="123" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <button>1</button></td>
+                <td>
+                    <button>2</button></td>
+                <td>
+                    <button>3</button></td>
+                <td>
+                    <button>+</button></td>
+            </tr>
+            <tr>
+
+                <td>
+                    <button>4</button></td>
+                <td>
+                    <button>5</button></td>
+                <td>
+                    <button>6</button></td>
+                <td>
+                    <button>-</button></td>
+
+            </tr>
+            <tr>
+                <td>
+                    <button>7</button></td>
+                <td>
+                    <button>8</button></td>
+                <td>
+                    <button>9</button></td>
+                <td>
+                    <button>*</button></td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <button id="zeroButton">0</button></td>
+                <td>
+                    <button>.</button></td>
+                <td>
+                    <button>/</button></td>
+            </tr>
+        </table>
+    </form>
+
+</body>
+</html>

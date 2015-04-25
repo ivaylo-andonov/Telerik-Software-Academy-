@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Html Table 2</title>
+    <style>
+        table {
+            border-color: white;
+        }
+
+        td {
+            font-weight: 500;
+            width: 24px;
+        }
+
+        .center {
+            text-align: center;
+        }
+
+        .right {
+            text-align: right;
+        }
+
+        .left {
+            text-align: left;
+        }
+    </style>
+</head>
+<body>
+    <table border="1">
+        <tr>
+            <td colspan="3">Title&nbsp;goes&nbsp;here
+            </td>
+            <td class="center">A</td>
+            <td class="right">B</td>
+        </tr>
+        <tr>
+            <td rowspan="3" class="left">C
+            </td>
+            <td class="center">D</td>
+            <td class="center">E</td>
+            <td class="center">F</td>
+            <td class="right">G</td>
+        </tr>
+        <tr>
+            <td class="center">H</td>
+            <td colspan="2" class="center">I</td>
+            <td rowspan="2" class="right" style="vertical-align: bottom">J</td>
+        </tr>
+        <tr>
+            <td class="center">K</td>
+            <td class="center">L</td>
+            <td class="center">M</td>
+        </tr>
+        <tr>
+            <td class="right">N</td>
+            <td colspan="4" class="center">O</td>
+        </tr>
+    </table>
+</body>
+</html>
