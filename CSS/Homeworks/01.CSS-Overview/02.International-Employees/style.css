@@ -1,0 +1,38 @@
+﻿table {
+    border: 1px solid gray;
+    border-collapse: collapse;
+    border-spacing: 0;
+    font-family: Calibri;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+th {
+    border: 1px solid gray;
+    background-color: #59bd06;
+    color: white;
+    font-weight: normal;
+    text-align: left;
+    width: 120px;
+    padding-left: 4px;
+}
+
+    th:last-child {
+        width: 18%;
+    }
+
+td {
+    border-left: 1px solid gray;
+    color: #232323;
+    padding-left: 4px;
+}
+
+tr:nth-child(2n+1) {
+    background-color: #ededda;
+}
+
+img {
+    width: 22px;
+    height: 17px;
+    padding-top: 2px;
+}

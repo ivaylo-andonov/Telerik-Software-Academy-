@@ -1,0 +1,54 @@
+﻿table {
+    background-color: #595959;
+    font-family: Arial;
+    width: 320px;
+}
+
+th {
+    text-align: left;
+    color: #f1f7f9;
+    font-style: italic;
+    font-size: 12px;
+    font-weight: normal;
+    width: 115px;
+}
+
+td {
+    font-size: 12px;
+    font-weight: normal;
+    color: #a9ada4;
+}
+
+tr {
+    height: 25px;
+}
+
+a {
+    text-decoration: none;
+    color: #e5d07b;
+}
+
+#header-th {
+    font-size: 17px;
+    font-weight: normal;
+    font-style: normal;
+    color: #819caf;
+}
+
+#active-support {
+    color: red;
+}
+
+#answered-status {
+    color: orange;
+}
+
+#dot-status {
+    color: #76B77F;
+    font-size: 22px;
+}
+
+#link {
+    text-align: center;
+    padding-left: 25px;
+}

@@ -1,0 +1,35 @@
+﻿a {
+    text-decoration: none;
+    color: #2e2d2d;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ul ul {
+    display: none;
+}
+
+ul li:hover ul {
+    display: block;
+}
+
+ul ul li a {
+    color: gray;
+}
+
+ul li a:hover {
+    text-decoration: underline;
+}
+    ul ul li a:hover {
+        -moz-border-radius: 3px;
+        -webkit-border-radius: 3px;
+        border-radius: 3px;
+        border:2px solid orange;
+        text-decoration:none;
+    }
+    ul ul li a:active{
+        color:red;
+        font-weight:bold;
+    }

@@ -1,0 +1,53 @@
+body,
+form,
+fieldset,
+input,
+label,
+img {
+  margin: 0;
+  padding: 0;
+  font-size: 15px;
+}
+body {
+  background-color: #cfc8c8;
+}
+body form {
+  width: 960px;
+  margin: 0 auto;
+}
+body form fieldset {
+  border: 4px ridge gray;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  text-align: center;
+  position: relative;
+}
+body form fieldset legend {
+  font-size: 1.5em;
+  font-family: 'Courier New', Courier, 'Nimbus Mono L', monospace;
+}
+body form fieldset img:first-of-type {
+  width: 150px;
+  height: 150px;
+}
+body form fieldset img:last-of-type {
+  position: absolute;
+  top: 190px;
+  height: 450px;
+  width: 480px;
+  border: 1px solid black;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  -moz-box-shadow: 10px 10px 5px #888;
+  -webkit-box-shadow: 10px 10px 5px #888;
+  box-shadow: 10px 10px 5px #888;
+  display: none;
+}
+body form fieldset input[type="radio"] {
+  display: none;
+}
+body form fieldset input[type="radio"]:checked + label img:last-of-type {
+  display: block;
+}

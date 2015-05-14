@@ -1,0 +1,8 @@
+﻿div {
+    width: 95%;
+    background-color: black;
+    border: 1px solid red;
+    -moz-border-radius: 80px;
+    -webkit-border-radius: 80px;
+    border-radius: 80px;
+}

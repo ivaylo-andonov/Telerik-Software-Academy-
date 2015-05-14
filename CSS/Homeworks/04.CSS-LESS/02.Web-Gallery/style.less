@@ -1,0 +1,56 @@
+﻿body, form, fieldset, input, label, img {
+    margin: 0;
+    padding: 0;
+    font-size: 15px;
+}
+
+body {
+    background-color: #cfc8c8;
+
+    form {
+        width: 960px;
+        margin: 0 auto;
+
+        fieldset {
+            border: 4px ridge gray;
+            -moz-border-radius: 10px;
+            -webkit-border-radius: 10px;
+            border-radius: 10px;
+            text-align: center;
+            position: relative;
+
+            legend {
+                font-size: 1.5em;
+                font-family: 'Courier New', Courier, 'Nimbus Mono L', monospace;
+            }
+
+            img:first-of-type {
+                width: 150px;
+                height: 150px;
+            }
+
+            img:last-of-type {
+                position: absolute;
+                top: 190px;
+                height: 450px;
+                width: 480px;
+                border: 1px solid black;
+                -moz-border-radius: 10px;
+                -webkit-border-radius: 10px;
+                border-radius: 10px;
+                -moz-box-shadow: 10px 10px 5px #888;
+                -webkit-box-shadow: 10px 10px 5px #888;
+                box-shadow: 10px 10px 5px #888;
+                display: none;
+            }
+
+            input[type="radio"] {
+                display: none;
+
+                &:checked + label img:last-of-type {
+                    display: block;
+                }
+            }
+        }
+    }
+}

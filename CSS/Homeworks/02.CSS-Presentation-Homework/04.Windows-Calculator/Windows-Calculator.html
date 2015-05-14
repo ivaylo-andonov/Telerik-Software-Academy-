@@ -1,0 +1,272 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Windows-Calculator</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <div id="calculator-back-layer">
+        <div>
+            <img src="tops.png" alt="Top border" />
+        </div>
+    </div>
+    <div id="calculator-main">
+        <div id="menu">
+            <button class="menu-buttons">View</button>
+            <button class="menu-buttons">Edit</button>
+            <button class="menu-buttons">Help</button>
+        </div>
+
+        <div id="display-container">
+            <input type="text" value="8854455" id="display" />
+        </div>
+
+        <div id="binary-nums">
+            <table id="binary-nums-table">
+                <tr>
+                    <td>0000</td>
+                    <td>0000</td>
+                    <td>0000</td>
+                    <td>0000</td>
+                    <td>0000</td>
+                    <td>0000</td>
+                    <td>0000</td>
+                    <td>0000</td>
+                </tr>
+                <tr class="gray-color-font">
+                    <td>63</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td>47</td>
+                    <td></td>
+                    <td></td>
+                    <td>32</td>
+                </tr>
+                <tr>
+                    <td>0000</td>
+                    <td>0000</td>
+                    <td>1000</td>
+                    <td>0111</td>
+                    <td>0001</td>
+                    <td>1011</td>
+                    <td>1011</td>
+                    <td>0111</td>
+                </tr>
+                <tr class="gray-color-font">
+                    <td>31</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td>15</td>
+                    <td></td>
+                    <td></td>
+                    <td>0</td>
+                </tr>
+            </table>
+        </div>
+
+        <div id="buttons-container">
+            <table>
+                <tr>
+                    <td>
+                        <div class="numeral-systems">
+                            <input type="radio" name="num-system-2part" id="hex" />
+                            <label for="hex">Hex</label>
+                            <br />
+                            <input type="radio" name="num-system-2part" id="dec" checked="checked" />
+                            <label for="dec">Dec</label>
+                            <br />
+                            <input type="radio" name="num-system-2part" id="oct" />
+                            <label for="oct">Oct</label>
+                            <br />
+                            <input type="radio" name="num-system-2part" id="bin" />
+                            <label for="bin">Bin</label>
+                            <br />
+                        </div>
+                    </td>
+                    <td class="buttons">
+                        <table>
+                            <tr>
+                                <td>
+                                    <button class="no-clickablle">&nbsp;</button>
+                                </td>
+                                <td>
+                                    <button class="clickablle">Mod </button>
+                                </td>
+                                <td>
+                                    <button class="no-clickablle">A</button>
+                                </td>
+                                <td>
+                                    <button class="no-clickablle">MC </button>
+                                </td>
+                                <td>
+                                    <button class="no-clickablle">MR </button>
+                                </td>
+                                <td>
+                                    <button class="no-clickablle">MS </button>
+                                </td>
+                                <td>
+                                    <button class="no-clickablle">M+ </button>
+                                </td>
+                                <td>
+                                    <button class="no-clickablle">M- </button>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <button class="clickablle">( </button>
+                                </td>
+                                <td>
+                                    <button class="clickablle">) </button>
+                                </td>
+                                <td>
+                                    <button class="no-clickablle">B </button>
+                                </td>
+                                <td>
+                                    <button class="clickabble">&larr;</button>
+                                </td>
+                                <td>
+                                    <button class="clickablle">CE</button>
+                                </td>
+                                <td>
+                                    <button class="clickablle">C</button>
+                                </td>
+                                <td>
+                                    <button class="clickablle">&#177;</button>
+                                </td>
+                                <td>
+                                    <button class="no-clickablle">&#8730;</button>
+                                </td>
+                            </tr>
+
+                            <tr>
+                                <td>
+                                    <button class="clickablle">RoL </button>
+                                </td>
+                                <td>
+                                    <button class="clickablle">RoR </button>
+                                </td>
+                                <td>
+                                    <button class="clickabble">C</button>
+                                </td>
+                                <td>
+                                    <button class="clickablle-num">7</button>
+                                </td>
+                                <td>
+                                    <button class="clickablle-num">8</button>
+                                </td>
+                                <td>
+                                    <button class="clickablle-num">9</button>
+                                </td>
+                                <td>
+                                    <button class="no-clickablle">/</button>
+                                </td>
+                                <td>
+                                    <button class="no-clickablle">%</button>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="numeral-systems">
+                            <input type="radio" name="num-system" id="qword" />
+                            <label for="qword">Qword</label>
+                            <br />
+                            <input type="radio" name="num-system" id="dword" checked="checked" />
+                            <label for="dword">Dword</label>
+                            <br />
+                            <input type="radio" name="num-system" id="word" />
+                            <label for="word">Word</label>
+                            <br />
+                            <input type="radio" name="num-system" id="byte" />
+                            <label for="byte">Byte</label>
+                            <br />
+                        </div>
+                    </td>
+                    <td class="buttons">
+                        <table>
+                            <tr>
+
+                                <td>
+                                    <button class="clickablle">Or</button>
+                                </td>
+                                <td>
+                                    <button class="clickablle">Xor</button>
+                                </td>
+                                <td>
+                                    <button class="no-clickablle">D</button>
+                                </td>
+                                <td>
+                                    <button class="clickablle-num">4 </button>
+                                </td>
+                                <td>
+                                    <button class="clickablle-num">5 </button>
+                                </td>
+                                <td>
+                                    <button class="clickablle-num">6 </button>
+                                </td>
+                                <td>
+                                    <button class="clickablle">* </button>
+                                </td>
+                                <td>
+                                    <button class="no-clickablle">1/&chi; </button>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <button class="clickablle">Lsh </button>
+                                </td>
+                                <td>
+                                    <button class="clickablle">Rsh </button>
+                                </td>
+                                <td>
+                                    <button class="no-clickablle">E</button>
+                                </td>
+                                <td>
+                                    <button class="clickablle-num">1</button>
+                                </td>
+                                <td>
+                                    <button class="clickablle-num">2</button>
+                                </td>
+                                <td>
+                                    <button class="clickablle-num">3</button>
+                                </td>
+                                <td>
+                                    <button class="clickablle">-</button>
+                                </td>
+                                <td rowspan="2">
+                                    <button class="clickablle" id="equals">=</button>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <button class="clickablle">Not </button>
+                                </td>
+                                <td>
+                                    <button class="clickablle">And </button>
+                                </td>
+                                <td>
+                                    <button class="no-clickabble">F</button>
+                                </td>
+                                <td colspan="2">
+                                    <button class="clickablle-num" id="null">0</button>
+                                </td>
+                                <td>
+                                    <button class="no-clickablle">.</button>
+                                </td>
+                                <td>
+                                    <button class="clickablle">+</button>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+
+</body>
+</html>

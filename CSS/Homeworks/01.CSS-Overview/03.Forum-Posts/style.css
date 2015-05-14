@@ -1,0 +1,41 @@
+﻿body {
+    background-color:#a9a9a9;
+}
+body > header {
+    text-align:center;
+    color:#fafad2;
+    font-size:20px;
+}
+ul li {
+    list-style-type:none;
+    font-size:22px;
+    font-weight:bold;
+}
+nav ul li a {
+    text-decoration:none;
+    color:#fafad2;
+}
+nav ul li a:hover {
+    text-decoration: underline;
+}
+nav ul li a.current {
+    background-color:#d3d3d3;
+}
+section article header h1 {
+    color:#fafad2;
+    font-size:26px;
+}
+p {
+    font-size:17px;
+}
+footer p {
+    font-size:13px;
+}
+section article footer p a {
+    text-decoration:none;
+    color:black;
+}
+body > footer {
+    text-align:center;
+    font-size:17px;
+}

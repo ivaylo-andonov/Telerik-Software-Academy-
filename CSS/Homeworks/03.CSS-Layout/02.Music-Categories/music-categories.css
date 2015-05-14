@@ -1,0 +1,94 @@
+﻿@font-face {
+    src: url(font/HelveticaNeueLTCom-LtCn.ttf);
+    font-family: HelveticaCondLight;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#back-layer {
+    width: 420px;
+    height: 540px;
+    position: absolute;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    background-color: #eeeeee;
+    -moz-border-radius: 7px;
+    -webkit-border-radius: 7px;
+    border-radius: 7px;
+}
+
+section {
+    position: absolute;
+    width: 400px;
+    height: 442px;
+    padding-bottom: 10px;
+    top: 70px;
+    left: 12px;
+}
+
+.music-box {
+    background-color: #ffffff;
+    border: 1px solid gray;
+    font-family: 'Segoe UI';
+    width: 400px;
+    overflow: auto;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    font-size: 13px;
+    margin-bottom: 37px;
+}
+
+h2 {
+    font-weight: lighter;
+    font-size: 18px;
+    font-family: HelveticaCondLight;
+    margin-left: 12px;
+    margin-top: 12px;
+}
+
+.buttons{
+    float:right;
+    margin-right:15px;
+    margin-bottom:10px;
+}
+
+button {
+    color: #ddd;
+    border:1px outset gray;
+}
+
+.listen {
+    background-image: url("images/button.gif");
+    width: 76px;
+    height: 24px;
+}
+
+    .listen:hover {
+        background-image: url("images/button-active.gif");
+    }
+
+.add {
+    background-image: url("images/button.gif");
+    width: 61px;
+    height: 24px;
+}
+
+    .add:hover {
+        background-image: url("images/button-active.gif");
+    }
+
+p {
+    width: 205px;
+    float:left;
+}
+
+img {
+    border: 1px solid gray;
+    margin: 15px;
+    float: left;
+}
