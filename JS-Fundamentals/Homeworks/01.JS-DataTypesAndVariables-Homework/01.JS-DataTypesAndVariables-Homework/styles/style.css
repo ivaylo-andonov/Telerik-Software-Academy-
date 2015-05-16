@@ -1,0 +1,68 @@
+﻿body {
+    background: -moz-linear-gradient(top, rgba(0,0,0,0.65) 0%, rgba(0,0,0,0) 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,0,0,0.65)), color-stop(100%,rgba(0,0,0,0)));
+    background: -webkit-linear-gradient(top, rgba(0,0,0,0.65) 0%,rgba(0,0,0,0) 100%);
+    background: -o-linear-gradient(top, rgba(0,0,0,0.65) 0%,rgba(0,0,0,0) 100%);
+    background: -ms-linear-gradient(top, rgba(0,0,0,0.65) 0%,rgba(0,0,0,0) 100%);
+    background: linear-gradient(to bottom, rgba(0,0,0,0.65) 0%,rgba(0,0,0,0) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a6000000', endColorstr='#00000000',GradientType=0 );
+    background-repeat: no-repeat;
+}
+
+header {
+    margin-bottom: 20px;
+}
+
+h1, h3 {
+    color: #dcd6d6;
+    text-align: center;
+    font-family: 'Courier New', Courier, 'Nimbus Mono L', monospace;
+}
+
+input[type=button] {
+    color: black;
+    background-color: #dcd6d6;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    border-radius: 20px;
+    margin-left: 80px;
+    padding: 5px 10px;
+    font-family: 'Courier New', Courier, 'Nimbus Mono L', monospace;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+#clear-console{
+    margin-left:300px;
+    background-color: #e14646;
+    font-size:17px;
+}
+
+#js-console {
+    margin: 20px;
+}
+
+hr {
+    height: 3px;
+    background-color: black;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+a {
+    text-decoration: none;
+    font-family: 'Playball', cursive;
+    float: right;
+    color: black;
+    margin-top: 40px;
+    margin-right: 20px;
+    font-size: 25px;
+}
+
+    a:hover {
+        color: orange;
+        font-size: 30px;
+    }
