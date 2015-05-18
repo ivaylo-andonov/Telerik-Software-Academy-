@@ -11,27 +11,24 @@
     "var NaN = pesho / sashka ;",
     "var func = function () {console.log('Literals')};"
     ];
-    jsConsole.writeLine();
-    jsConsole.writeLine("-------------------- Task 1 -----------------------------------------------");
+    jsConsole.writeLine("\r\n" + "-------------------- Task 1 --------------------");
 
     for (var i = 0; i < array.length; i++) {
         jsConsole.writeLine(array[i]);
     }
-    jsConsole.writeLine("---------------------------------------------------------------------------");
+    jsConsole.writeLine("\r\n");
 }
 
 function howAreYou() {
 
-    jsConsole.writeLine();
-    jsConsole.writeLine("-------------------- Task 2 -----------------------------------------------");
+    jsConsole.writeLine( "\r\n" + "-------------------- Task 2 --------------------");
     jsConsole.writeLine('"How you doin\'?", Joey said.');
-    jsConsole.writeLine("---------------------------------------------------------------------------");
+    jsConsole.writeLine("\r\n");
 }
 
 function typeOfLiterals() {
 
-    jsConsole.writeLine();
-    jsConsole.writeLine("-------------------- Task 3 -----------------------------------------------");
+    jsConsole.writeLine( "\r\n" + "-------------------- Task 3 --------------------");
     var integer = 23;
     var float = 333.33;
     var bool = true;
@@ -47,18 +44,17 @@ function typeOfLiterals() {
     for (var i = 0; i < literalArray.length; i++) {
         jsConsole.writeLine(' - ' + literalArray[i] + '     | The type is: => ' + typeof (literalArray[i]));
     }
-    jsConsole.writeLine("---------------------------------------------------------------------------");
+    jsConsole.writeLine("\r\n");
 }
 
 function task4() {
 
-    jsConsole.writeLine();
-    jsConsole.writeLine("-------------------- Task 3 -----------------------------------------------");
+    jsConsole.writeLine("\r\n" + "-------------------- Task 4 --------------------");
 
     var nullVariable = null;
     var undefinedVariable;
 
     jsConsole.writeLine('Null is of type: ' + typeof (nullVariable));
     jsConsole.writeLine('Undefined is of type: ' + typeof (undefinedVariable));
-    jsConsole.writeLine("---------------------------------------------------------------------------");
+    jsConsole.writeLine("\r\n");
 }
