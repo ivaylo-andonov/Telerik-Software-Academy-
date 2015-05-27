@@ -1,0 +1,102 @@
+﻿body {
+    background: -moz-linear-gradient(top, rgba(0,0,0,0.65) 0%, rgba(0,0,0,0) 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,0,0,0.65)), color-stop(100%,rgba(0,0,0,0)));
+    background: -webkit-linear-gradient(top, rgba(0,0,0,0.65) 0%,rgba(0,0,0,0) 100%);
+    background: -o-linear-gradient(top, rgba(0,0,0,0.65) 0%,rgba(0,0,0,0) 100%);
+    background: -ms-linear-gradient(top, rgba(0,0,0,0.65) 0%,rgba(0,0,0,0) 100%);
+    background: linear-gradient(to bottom, rgba(0,0,0,0.65) 0%,rgba(0,0,0,0) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a6000000', endColorstr='#00000000',GradientType=0 );
+    background-repeat: no-repeat;
+}
+
+header {
+    margin-bottom: 20px;
+}
+
+h1, h2 {
+    color: #dcd6d6;
+    text-align: center;
+    font-family: 'Courier New', Courier, 'Nimbus Mono L', monospace;
+}
+
+button {
+    color: black;
+    background-color: #dcd6d6;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    border-radius: 20px;
+    margin-left: 20px;
+    padding: 3px 6px;
+    font-family: 'Courier New', Courier, 'Nimbus Mono L', monospace;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+
+}
+#tasks{
+ font-family: 'Courier New', Courier, 'Nimbus Mono L', monospace;
+margin-top:50px;
+margin-left:15px;
+position:relative;
+width: 700px;}
+
+
+
+#js-console {
+    margin: 20px;
+position:fixed;
+top:150px;
+right: 10px;
+
+}
+
+#clear-console{
+    color: black;
+    background-color: #ad0c0c;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    border-radius: 20px;
+    margin-left: 20px;
+    padding: 10px 10px;
+    font-family: 'Courier New', Courier, 'Nimbus Mono L', monospace;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+	position:fixed;
+    top:500px;
+    right: 220px;
+}
+
+input {
+height:16px;
+width:150px;
+padding:3px;
+margin-bottom:4px;
+border-radius:9px;
+}
+
+hr {
+    height: 3px;
+    background-color: black;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    margin: 5px;
+	margin-left:0px;
+}
+
+a {
+    text-decoration: none;
+    font-family: 'Playball', cursive;
+    float: right;
+    color: black;
+    position:fixed;
+    top:600px;
+    right: 50px;
+    font-size: 25px;
+}
+
+    a:hover {
+        color: orange;
+        font-size: 30px;
+    }
