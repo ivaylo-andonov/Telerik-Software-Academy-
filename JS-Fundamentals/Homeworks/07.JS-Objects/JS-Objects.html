@@ -1,0 +1,98 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Objects - Homework</title>
+    <link href='http://fonts.googleapis.com/css?family=Playball' rel='stylesheet' type='text/css' />
+    <link href="styles/style.css" rel="stylesheet" />
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <header>
+        <h1>JavaScript - Homework 7</h1>
+        <h2>Objects</h2>
+    </header>
+    <section>
+        <div id="tasks">
+            <div id="taskOne">
+                <h3>Problem 1. Planar coordinates </h3>
+                <h4>Create your Points:</h4>
+                <span>Point A:</span>
+                <label for="xCoorA">Enter A.x :</label>
+                <input id="xCoorA" placeholder="Enter xCoor : " />
+                <label for="yCoorA">Enter A.y :</label>
+                <input id="yCoorA" placeholder="Enter yCoor : " /><br />
+
+                <span>Point B:</span>
+                <label for="xCoorB">Enter B.x :</label>
+                <input id="xCoorB" placeholder="Enter xCoor : " />
+                <label for="yCoorB">Enter B.y :</label>
+                <input id="yCoorB" placeholder="Enter yCoor : " /><br />
+
+                <span>Point C:</span>
+                <label for="xCoorC">Enter C.x :</label>
+                <input id="xCoorC" placeholder="Enter xCoor : " />
+                <label for="yCoorC">Enter C.y :</label>
+                <input id="yCoorC" placeholder="Enter yCoor : " />
+                <button onclick="task1Points()">Create Points</button>
+
+                <h4>Create Lines between the points:</h4>
+                <span>Line A (A - B), Line B (B-C), Line C (A - C) </span>
+                <button onclick="task1Lines()">Create Lines</button>
+
+                <h4>Find the distance between two points for each line: </h4>
+                <button onclick="task1Distances()">Calculate It</button>
+
+                <h4>Is it possible to form triangle from those lines?: </h4>
+                <button onclick="task1FormTriangle()">Check It</button>
+            </div>
+            <hr />
+
+            <h3>Problem 2. Remove elements</h3>
+            <label for="array1">Enter numbers, separated by space:</label>
+            <input id="array1" placeholder="Enter the numbers" /><br />
+            <label for="number1">Enter the number which you want to remove:</label>
+            <input id="number1" placeholder="Enter the number" /><br />
+            <button onclick="task2()">Remove</button>
+            <hr />
+
+            <h3>Problem 3. Deep copy</h3>
+            <span>Create an object 'Human' with name and age --> Copy it deeply --> Change the name and age values of copied one--> Print the objects</span><br />
+            <button onclick="task3()">Result</button><br />
+            <hr />
+
+            <h3>Problem 4. Has property</h3>
+            <button onclick="task4()">Has Prop?</button>
+            <hr />
+
+            <h3>Problem 5. Youngest person</h3>
+            <label for="firstName">Enter name :</label>
+            <input id="firstName" placeholder="Enter first name" /><br />
+            <label for="lastName">Enter name :</label>
+            <input id="lastName" placeholder="Enter last name" /><br />
+            <label for="age">Enter age :</label>
+            <input id="age" placeholder="Enter age" />
+            <button onclick="task5()">Create person</button><br />
+            <button onclick="youngest()">Youngest?</button>
+            <hr />
+
+            <h3>Problem 6. Grouping</h3>
+            <span>Create array of persons and group them</span><br />
+            <span>The result you will see on the console ( F12 ),is used table and grouping</span>
+            <button onclick="task6()">Group</button>
+            <hr />
+
+        </div>
+        <div id="js-console">
+            Microsoft Windows [Version 6.1.7601]
+            <br />
+            Copyright (c) 2009 Microsoft Corporation.  All rights reserved.
+            <script src="scripts/js-console.js"></script>
+            <script src="scripts/script.js"></script>
+        </div>
+        <button id="clear-console" onclick="jsConsole.clearConsole()">Clear Console</button>
+    </section>
+    <footer>
+        <a href="https://telerikacademy.com/Users/IvayloAndonov">design by Ivaylo Andonov</a>
+    </footer>
+</body>
+</html>
