@@ -30,70 +30,60 @@ function solve() {
 	}
 		
 		function Person(firstName,lastName,age) {			
-			var _firstname,_lastname,_age;
 			
-			this.firstName = firstName;
-			this.lastName = lastName;
+			this.firstname = firstName;
+			this.lastname = lastName;
 			this.age = age;
-			this.fullname = firstName + ' ' + lastName;
 		}
 		
 		        Object.defineProperty(Person.prototype, 'firstname', {
             get: function () {
-                return _firstname;
+                return this._firstname;
             },
             set: function (value) {
                 if (!isValidName(value)) {
                     throw Error('Invalid firstname! The firstname should be a string with only Latin letters between 3 and 20 characters')
                 }
 
-                _firstname = value;
-
-                return this;
+                this._firstname = value;
             }
         });
 
         Object.defineProperty(Person.prototype, 'lastname', {
             get: function () {
-                return _lastname;
+                return this._lastname;
             },
             set: function (value) {
                 if (!isValidName(value)) {
                     throw Error('Invalid lastname! The lastname should be a string with only Latin letters between 3 and 20 characters')
                 }
 
-                _lastname = value;
-
-                return this;
+                this._lastname = value;
             }
         });
 
         Object.defineProperty(Person.prototype, 'age', {
             get: function () {
-                return _age;
+                return this._age;
             },
             set: function (value) {
                 if (!isValidAge(value)) {
                     throw Error('Invalid age! The age should be a number between 0 and 150')
                 }
 
-                _age = parseInt(value, 10);
-
-                return this;
+                this._age = parseInt(value, 10);
             }
         });
 
         Object.defineProperty(Person.prototype, 'fullname', {
             get: function () {
-                return _firstname + ' ' + _lastname;
+                return this.firstname + ' ' + this.lastname;
             },
             set: function (value) {
                 var names = value.split(' ');
 
                 this.firstname = names[0];
                 this.lastname = names[1];
-
-                return this;
             }
         });
 		
@@ -101,7 +91,9 @@ function solve() {
 			return 'Hello! My name is ' + this.fullname + ' and I am ' + this.age + '-years-old';
 		}			
 		return Person;
+		
 	} ());
 	return Person;
+	
 }
 module.exports = solve;
