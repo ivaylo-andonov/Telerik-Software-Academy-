@@ -1,0 +1,24 @@
+body{
+ color: white;   background: url("Images/images.jpg");
+}
+
+canvas {
+    background: url("Images/ios_newsstand_wood_background_by_ebara-d45h8fy.png");
+    padding: 0;
+    margin: auto;
+    display: block;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+}
+ #score{
+    position: absolute;
+    right: 40%;
+    font-size: 37px;
+    color: aliceblue;
+} 
+#end{
+position: relative; width:300px; height:200px;}
