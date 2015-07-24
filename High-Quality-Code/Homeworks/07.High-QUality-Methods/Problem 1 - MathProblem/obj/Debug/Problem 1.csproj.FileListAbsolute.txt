@@ -1,0 +1,8 @@
+C:\Users\Envy\Desktop\High-Quality-Programing-Code-master\High-Quality-Programing-Code-master\07. High-quality Methods\Homework\Problem 1 - Calculation Problem\bin\Debug\Problem 1 - Calculation Problem.exe.config
+C:\Users\Envy\Desktop\High-Quality-Programing-Code-master\High-Quality-Programing-Code-master\07. High-quality Methods\Homework\Problem 1 - Calculation Problem\bin\Debug\Problem 1 - Calculation Problem.exe
+C:\Users\Envy\Desktop\High-Quality-Programing-Code-master\High-Quality-Programing-Code-master\07. High-quality Methods\Homework\Problem 1 - Calculation Problem\bin\Debug\Problem 1 - Calculation Problem.pdb
+C:\Users\Envy\Desktop\High-Quality-Programing-Code-master\High-Quality-Programing-Code-master\07. High-quality Methods\Homework\Problem 1 - Calculation Problem\obj\Debug\Problem 1 - Calculation Problem.exe
+C:\Users\Envy\Desktop\High-Quality-Programing-Code-master\High-Quality-Programing-Code-master\07. High-quality Methods\Homework\Problem 1 - Calculation Problem\obj\Debug\Problem 1 - Calculation Problem.pdb
+C:\Users\Envy\Desktop\High-Quality-Programing-Code-master\High-Quality-Programing-Code-master\07. High-quality Methods\Homework\Problem 1 - MathProblem\bin\Debug\Problem 1 - Calculation Problem.exe.config
+C:\Users\Envy\Desktop\High-Quality-Programing-Code-master\High-Quality-Programing-Code-master\07. High-quality Methods\Homework\Problem 1 - MathProblem\obj\Debug\Problem 1 - Calculation Problem.exe
+C:\Users\Envy\Desktop\High-Quality-Programing-Code-master\High-Quality-Programing-Code-master\07. High-quality Methods\Homework\Problem 1 - MathProblem\obj\Debug\Problem 1 - Calculation Problem.pdb

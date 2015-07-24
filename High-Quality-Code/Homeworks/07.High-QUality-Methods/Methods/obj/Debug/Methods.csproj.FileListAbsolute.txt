@@ -1,0 +1,10 @@
+C:\Users\kjkjh\Documents\GitHub\High-Quality-Programing-Code\07. High-quality Methods\Homework\Methods\bin\Debug\Methods.exe
+C:\Users\kjkjh\Documents\GitHub\High-Quality-Programing-Code\07. High-quality Methods\Homework\Methods\bin\Debug\Methods.pdb
+C:\Users\kjkjh\Documents\GitHub\High-Quality-Programing-Code\07. High-quality Methods\Homework\Methods\obj\Debug\Methods.csprojResolveAssemblyReference.cache
+C:\Users\kjkjh\Documents\GitHub\High-Quality-Programing-Code\07. High-quality Methods\Homework\Methods\obj\Debug\Methods.exe
+C:\Users\kjkjh\Documents\GitHub\High-Quality-Programing-Code\07. High-quality Methods\Homework\Methods\obj\Debug\Methods.pdb
+C:\Users\Envy\Desktop\High-Quality-Programing-Code-master\High-Quality-Programing-Code-master\07. High-quality Methods\Homework\Methods\obj\Debug\Methods.exe
+C:\Users\Envy\Desktop\High-Quality-Programing-Code-master\High-Quality-Programing-Code-master\07. High-quality Methods\Homework\Methods\obj\Debug\Methods.pdb
+C:\Users\Envy\Desktop\High-Quality-Programing-Code-master\High-Quality-Programing-Code-master\07. High-quality Methods\Homework\Methods\bin\Debug\Methods.exe
+C:\Users\Envy\Desktop\High-Quality-Programing-Code-master\High-Quality-Programing-Code-master\07. High-quality Methods\Homework\Methods\bin\Debug\Methods.pdb
+C:\Users\Envy\Desktop\High-Quality-Programing-Code-master\High-Quality-Programing-Code-master\07. High-quality Methods\Homework\Methods\obj\Debug\Methods.csprojResolveAssemblyReference.cache

@@ -1,0 +1,1 @@
+C:\Users\Envy\Desktop\HW_IvayloAndonov_Konstrukcii-za-upravlenie-uslovni-opera_2015-07-17_16-42\06. Control Flow, Conditional Statements and Loops\3. Refactor loop\bin\Debug\RefactorLoop.exe.config
