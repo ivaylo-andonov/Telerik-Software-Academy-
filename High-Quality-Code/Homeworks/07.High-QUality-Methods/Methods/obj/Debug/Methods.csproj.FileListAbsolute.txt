@@ -8,3 +8,5 @@ C:\Users\Envy\Desktop\High-Quality-Programing-Code-master\High-Quality-Programin
 C:\Users\Envy\Desktop\High-Quality-Programing-Code-master\High-Quality-Programing-Code-master\07. High-quality Methods\Homework\Methods\bin\Debug\Methods.exe
 C:\Users\Envy\Desktop\High-Quality-Programing-Code-master\High-Quality-Programing-Code-master\07. High-quality Methods\Homework\Methods\bin\Debug\Methods.pdb
 C:\Users\Envy\Desktop\High-Quality-Programing-Code-master\High-Quality-Programing-Code-master\07. High-quality Methods\Homework\Methods\obj\Debug\Methods.csprojResolveAssemblyReference.cache
+C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\High-Quality-Code\Homeworks\07.High-QUality-Methods\Methods\obj\Debug\Methods.exe
+C:\Users\Envy\Visual Studio Pro 2012\Telerik Software Academy 2015\High-Quality-Code\Homeworks\07.High-QUality-Methods\Methods\obj\Debug\Methods.pdb

@@ -1,0 +1,7 @@
+C:\Users\Envy\Desktop\REPO-High-Quality-Code-master\High-Quality-Code-master\08. High-quality Classes\Homework\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.exe
+C:\Users\Envy\Desktop\REPO-High-Quality-Code-master\High-Quality-Code-master\08. High-quality Classes\Homework\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.pdb
+C:\Users\Envy\Desktop\REPO-High-Quality-Code-master\High-Quality-Code-master\08. High-quality Classes\Homework\Cohesion-and-Coupling\bin\Debug\Abstraction.exe
+C:\Users\Envy\Desktop\REPO-High-Quality-Code-master\High-Quality-Code-master\08. High-quality Classes\Homework\Cohesion-and-Coupling\bin\Debug\Abstraction.pdb
+C:\Users\Envy\Desktop\REPO-High-Quality-Code-master\High-Quality-Code-master\08. High-quality Classes\Homework\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.csprojResolveAssemblyReference.cache
+C:\Users\Envy\Desktop\REPO-High-Quality-Code-master\High-Quality-Code-master\08. High-quality Classes\Homework\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.exe
+C:\Users\Envy\Desktop\REPO-High-Quality-Code-master\High-Quality-Code-master\08. High-quality Classes\Homework\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.pdb

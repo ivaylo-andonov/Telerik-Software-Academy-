@@ -1,0 +1,6 @@
+C:\Users\Envy\Desktop\REPO-High-Quality-Code-master\High-Quality-Code-master\08. High-quality Classes\Homework\Inheritance-and-Polymorphism\bin\Debug\Inheritance-and-Polymorphism.exe
+C:\Users\Envy\Desktop\REPO-High-Quality-Code-master\High-Quality-Code-master\08. High-quality Classes\Homework\Inheritance-and-Polymorphism\bin\Debug\Inheritance-and-Polymorphism.pdb
+C:\Users\Envy\Desktop\REPO-High-Quality-Code-master\High-Quality-Code-master\08. High-quality Classes\Homework\Inheritance-and-Polymorphism\bin\Debug\Abstraction.exe
+C:\Users\Envy\Desktop\REPO-High-Quality-Code-master\High-Quality-Code-master\08. High-quality Classes\Homework\Inheritance-and-Polymorphism\bin\Debug\Abstraction.pdb
+C:\Users\Envy\Desktop\REPO-High-Quality-Code-master\High-Quality-Code-master\08. High-quality Classes\Homework\Inheritance-and-Polymorphism\obj\Debug\Inheritance-and-Polymorphism.exe
+C:\Users\Envy\Desktop\REPO-High-Quality-Code-master\High-Quality-Code-master\08. High-quality Classes\Homework\Inheritance-and-Polymorphism\obj\Debug\Inheritance-and-Polymorphism.pdb

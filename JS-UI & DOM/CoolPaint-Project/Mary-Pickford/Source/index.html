@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Mary Pickford Paint</title>
+    <link href='http://fonts.googleapis.com/css?family=Cherry+Cream+Soda' rel='stylesheet' type='text/css'>
+    <link href="css/style.css" rel="stylesheet" />
+    <script src="lib/jquery-2.1.4.js"></script>
+	<script src="lib/jquery-ui.min.js"></script>
+    <link rel="stylesheet" href="css/jQuerySmooth.css">
+</head>
+<body>
+    <button id="arrow-top">COLORS</button>
+    <div id="top-options">
+	<div id="color-picker">
+            <div id="red"></div>
+            <div id="green"></div>
+            <div id="blue"></div>
+            <div id="swatch" class="ui-widget-content ui-corner-all"></div>
+            <div id="colors"></div>
+        </div>
+	</div>
+    <div id="paint-container">
+        <canvas id="canvas"></canvas>
+    </div>
+    <span id="radius">
+        SIZE
+        <button>+</button>
+        <button>-</button>
+    </span>
+	<button id="clear">CLEAR</button>
+    <nav>
+        <a href="#" id="menuToggle" title="show menu">
+            <span class="navClosed"><i>show menu</i></span>
+        </a>
+    </nav>
+    <header>
+        <div id="bottom-layer">
+            <button id="save">SAVE</button>
+            <button id="load">LOAD</button>
+        </div>
+		<form id="load-pic">
+            <input type="url" placeholder="URL" id="url">
+            <input type="button" value="Submit" id="submit">
+        </form>
+    </header>
+    <script src="js/logger.js"></script>
+    <script src="js/main.js"></script>
+    <script src="js/engine.js"></script>
+
+    <!--Add your tools here-->
+    <script src="js/tools/brushTool.js"></script>
+    <script src="js/tools/rectTool.js"></script>
+    <script src="js/tools/triangleTool.js"></script>
+    <script src="js/tools/circleTool.js"></script>
+	<script src="js/tools/loadImage.js"></script>
+    <script src="js/tools/cloudTool.js"></script>
+    <script src="js/tools/ellipseTool.js"></script>
+    <script src="js/tools/eraserTool.js"></script>
+    <script src="js/tools/starTool.js"></script>
+	<script src="js/tools/writeTextTool.js"></script>
+	<script src="js/tools/pickColor.js"></script>
+    <script src="js/tools/paintBucketTool.js"></script>
+
+
+    <!-- Add scripts for the ui here-->
+    <script src="js/ui-components/sideBar.js"></script>
+    <script src="js/ui-components/colorsSlider.js"></script>
+	<script src="js/ui-components/load.js"></script>
+	<script src="js/ui-components/colorPickerJqueryUI.js"></script>
+</body>
+</html>

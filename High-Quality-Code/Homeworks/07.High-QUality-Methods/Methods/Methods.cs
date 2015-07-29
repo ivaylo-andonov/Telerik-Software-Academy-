@@ -91,11 +91,10 @@
             }
         }
 
-        public static double CalcDistance(double x1, double y1, double x2, double y2,
-                                             out bool isHorizontal, out bool isVertical)
+        public static double CalcDistance(double x1, double y1, double x2, double y2, out bool isHorizontal, out bool isVertical)
         {
-            isHorizontal = (y1 == y2);
-            isVertical = (x1 == x2);
+            isHorizontal = y1.Equals(y2);
+            isVertical = x1.Equals(x2);
 
             double distance = Math.Sqrt(((x2 - x1) * (x2 - x1)) + ((y2 - y1) * (y2 - y1)));
             return distance;

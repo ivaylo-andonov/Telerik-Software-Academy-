@@ -2,9 +2,9 @@
 {
     using System;
 
-    class MathProblem
+     internal class MathProblem
     {
-        static void Main()
+        public static void Main()
         {
             string[] catNumbers = Console.ReadLine().Split();
             string newName = string.Empty;
@@ -18,8 +18,9 @@
                 for (int j = 0; j < currentNum.Length; j++)
                 {
                     int currentDigit = currentNum[j] - 'a';
-                    currentResult = currentResult * 19 + currentDigit;
+                    currentResult = (currentResult * 19) + currentDigit;
                 }
+
                 sumResult += currentResult;
                 currentResult = 0;
             }
@@ -32,6 +33,7 @@
                 newName = (char)(digit + 'a') + newName;
                 sumResult /= 19;
             }
+
             Console.WriteLine("{0} = {1}", newName, finalResult);
         }
     }

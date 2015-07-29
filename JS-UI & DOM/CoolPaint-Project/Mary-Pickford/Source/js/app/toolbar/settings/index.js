@@ -1,0 +1,1 @@
+// Settings index file - control size, color & other properties of the objects.

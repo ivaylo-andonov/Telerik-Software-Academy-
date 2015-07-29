@@ -35,8 +35,7 @@
             };
             stella.OtherInfo = "From Vidin, gamer, high results, born at 03.11.1993";
 
-            Console.WriteLine("{0} older than {1} -> {2}",
-                              peter.FirstName, stella.FirstName, peter.IsOlderThan(stella) ? "true" : "false");
+            Console.WriteLine("{0} older than {1} -> {2}", peter.FirstName, stella.FirstName, peter.IsOlderThan(stella) ? "true" : "false");
         }
     }
 }

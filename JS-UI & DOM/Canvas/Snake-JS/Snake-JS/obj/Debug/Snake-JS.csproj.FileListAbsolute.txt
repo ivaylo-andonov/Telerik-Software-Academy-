@@ -1,5 +1,0 @@
-C:\Users\Envy\Visual Studio Pro 2012\Projects\Snake-JS\Snake-JS\bin\Snake-JS.dll
-C:\Users\Envy\Visual Studio Pro 2012\Projects\Snake-JS\Snake-JS\bin\Snake-JS.pdb
-C:\Users\Envy\Visual Studio Pro 2012\Projects\Snake-JS\Snake-JS\obj\Debug\Snake-JS.csprojResolveAssemblyReference.cache
-C:\Users\Envy\Visual Studio Pro 2012\Projects\Snake-JS\Snake-JS\obj\Debug\Snake-JS.dll
-C:\Users\Envy\Visual Studio Pro 2012\Projects\Snake-JS\Snake-JS\obj\Debug\Snake-JS.pdb

@@ -3,13 +3,11 @@
     using System;
     using System.Linq;
 
-   internal class EvenDifferences
+    internal class EvenDifferences
     {
-        static void Main()
+        public static void Main()
         {
-            long[] inputNumbers = Console.ReadLine().
-                Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries).
-                Select(x => long.Parse(x)).ToArray();
+            long[] inputNumbers = Console.ReadLine().Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries).Select(x => long.Parse(x)).ToArray();
             long result = 0;
 
             for (int i = 1; i < inputNumbers.Length; i++)
@@ -20,15 +18,17 @@
                     i += 1;
                     result += number;
                 }
+
                 if (i >= inputNumbers.Length)
                 {
                     break;
                 }
             }
-            Console.WriteLine(result);
 
+            Console.WriteLine(result);
         }
-        static long GetAbsolute(long firstNum, long secondNum)
+
+        internal static long GetAbsolute(long firstNum, long secondNum)
         {
             long result = 0;
             if (firstNum >= secondNum)
@@ -39,6 +39,7 @@
             {
                 result = secondNum - firstNum;
             }
+
             return result;
         }
     }
