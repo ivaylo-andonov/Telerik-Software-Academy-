@@ -1,0 +1,5 @@
+C:\Users\Envy\Desktop\linqods4\Telerik-Software-Academy-master\Modul 2\HQC\09. Code-Tuning-and-Optimization-Homework\SortAlgorithmsComparison\bin\Debug\SortAlgorithmsComparison.exe.config
+C:\Users\Envy\Desktop\linqods4\Telerik-Software-Academy-master\Modul 2\HQC\09. Code-Tuning-and-Optimization-Homework\SortAlgorithmsComparison\bin\Debug\SortAlgorithmsComparison.exe
+C:\Users\Envy\Desktop\linqods4\Telerik-Software-Academy-master\Modul 2\HQC\09. Code-Tuning-and-Optimization-Homework\SortAlgorithmsComparison\bin\Debug\SortAlgorithmsComparison.pdb
+C:\Users\Envy\Desktop\linqods4\Telerik-Software-Academy-master\Modul 2\HQC\09. Code-Tuning-and-Optimization-Homework\SortAlgorithmsComparison\obj\Debug\SortAlgorithmsComparison.exe
+C:\Users\Envy\Desktop\linqods4\Telerik-Software-Academy-master\Modul 2\HQC\09. Code-Tuning-and-Optimization-Homework\SortAlgorithmsComparison\obj\Debug\SortAlgorithmsComparison.pdb

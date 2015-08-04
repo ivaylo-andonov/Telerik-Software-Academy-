@@ -1,0 +1,6 @@
+C:\Users\Envy\Desktop\linqods4\Telerik-Software-Academy-master\Modul 2\HQC\09. Code-Tuning-and-Optimization-Homework\SimpleMathsComparison\bin\Debug\SimpleMathsComparison.exe.config
+C:\Users\Envy\Desktop\linqods4\Telerik-Software-Academy-master\Modul 2\HQC\09. Code-Tuning-and-Optimization-Homework\SimpleMathsComparison\bin\Debug\SimpleMathsComparison.exe
+C:\Users\Envy\Desktop\linqods4\Telerik-Software-Academy-master\Modul 2\HQC\09. Code-Tuning-and-Optimization-Homework\SimpleMathsComparison\bin\Debug\SimpleMathsComparison.pdb
+C:\Users\Envy\Desktop\linqods4\Telerik-Software-Academy-master\Modul 2\HQC\09. Code-Tuning-and-Optimization-Homework\SimpleMathsComparison\obj\Debug\SimpleMathsComparison.csprojResolveAssemblyReference.cache
+C:\Users\Envy\Desktop\linqods4\Telerik-Software-Academy-master\Modul 2\HQC\09. Code-Tuning-and-Optimization-Homework\SimpleMathsComparison\obj\Debug\SimpleMathsComparison.exe
+C:\Users\Envy\Desktop\linqods4\Telerik-Software-Academy-master\Modul 2\HQC\09. Code-Tuning-and-Optimization-Homework\SimpleMathsComparison\obj\Debug\SimpleMathsComparison.pdb
