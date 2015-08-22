@@ -1,0 +1,6 @@
+C:\Users\Envy\Desktop\High-Quality-Code-Homeworks-bbd49feb034dfc1b8608eea8f343f1c32b730360\High-Quality-Code-Homeworks-bbd49feb034dfc1b8608eea8f343f1c32b730360\13. Refactoring\Matrix\bin\Debug\Matrix.exe.config
+C:\Users\Envy\Desktop\High-Quality-Code-Homeworks-bbd49feb034dfc1b8608eea8f343f1c32b730360\High-Quality-Code-Homeworks-bbd49feb034dfc1b8608eea8f343f1c32b730360\13. Refactoring\Matrix\bin\Debug\Matrix.exe
+C:\Users\Envy\Desktop\High-Quality-Code-Homeworks-bbd49feb034dfc1b8608eea8f343f1c32b730360\High-Quality-Code-Homeworks-bbd49feb034dfc1b8608eea8f343f1c32b730360\13. Refactoring\Matrix\bin\Debug\Matrix.pdb
+C:\Users\Envy\Desktop\High-Quality-Code-Homeworks-bbd49feb034dfc1b8608eea8f343f1c32b730360\High-Quality-Code-Homeworks-bbd49feb034dfc1b8608eea8f343f1c32b730360\13. Refactoring\Matrix\obj\Debug\Matrix.csprojResolveAssemblyReference.cache
+C:\Users\Envy\Desktop\High-Quality-Code-Homeworks-bbd49feb034dfc1b8608eea8f343f1c32b730360\High-Quality-Code-Homeworks-bbd49feb034dfc1b8608eea8f343f1c32b730360\13. Refactoring\Matrix\obj\Debug\Matrix.exe
+C:\Users\Envy\Desktop\High-Quality-Code-Homeworks-bbd49feb034dfc1b8608eea8f343f1c32b730360\High-Quality-Code-Homeworks-bbd49feb034dfc1b8608eea8f343f1c32b730360\13. Refactoring\Matrix\obj\Debug\Matrix.pdb

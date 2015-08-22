@@ -1,0 +1,6 @@
+C:\Users\Envy\GitHub\Telerik-Software-Academy-\High-Quality-Code\Homeworks\03.Quality-Naming\02. NamingIdentifiers\01. Task1\bin\Debug\_01.Task1.exe.config
+C:\Users\Envy\GitHub\Telerik-Software-Academy-\High-Quality-Code\Homeworks\03.Quality-Naming\02. NamingIdentifiers\01. Task1\bin\Debug\_01.Task1.exe
+C:\Users\Envy\GitHub\Telerik-Software-Academy-\High-Quality-Code\Homeworks\03.Quality-Naming\02. NamingIdentifiers\01. Task1\bin\Debug\_01.Task1.pdb
+C:\Users\Envy\GitHub\Telerik-Software-Academy-\High-Quality-Code\Homeworks\03.Quality-Naming\02. NamingIdentifiers\01. Task1\obj\Debug\01. Task1.csprojResolveAssemblyReference.cache
+C:\Users\Envy\GitHub\Telerik-Software-Academy-\High-Quality-Code\Homeworks\03.Quality-Naming\02. NamingIdentifiers\01. Task1\obj\Debug\_01.Task1.exe
+C:\Users\Envy\GitHub\Telerik-Software-Academy-\High-Quality-Code\Homeworks\03.Quality-Naming\02. NamingIdentifiers\01. Task1\obj\Debug\_01.Task1.pdb

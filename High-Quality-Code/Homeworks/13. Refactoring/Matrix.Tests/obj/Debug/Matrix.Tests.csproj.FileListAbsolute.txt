@@ -1,0 +1,1 @@
+C:\Users\Envy\Desktop\High-Quality-Code-Homeworks-bbd49feb034dfc1b8608eea8f343f1c32b730360\High-Quality-Code-Homeworks-bbd49feb034dfc1b8608eea8f343f1c32b730360\13. Refactoring\Matrix.Tests\obj\Debug\Matrix.Tests.csprojResolveAssemblyReference.cache

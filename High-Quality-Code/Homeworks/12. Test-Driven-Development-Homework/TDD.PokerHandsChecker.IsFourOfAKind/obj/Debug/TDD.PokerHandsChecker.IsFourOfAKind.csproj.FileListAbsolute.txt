@@ -1,0 +1,4 @@
+C:\Users\Envy\Desktop\Linkods4\Telerik-Software-Academy-master\Modul 2\HQC\11. Test-Driven-Development-Homework\TDD.PokerHandsChecker.IsFourOfAKind\bin\Debug\TDD.PokerHandsChecker.IsFourOfAKind.dll
+C:\Users\Envy\Desktop\Linkods4\Telerik-Software-Academy-master\Modul 2\HQC\11. Test-Driven-Development-Homework\TDD.PokerHandsChecker.IsFourOfAKind\bin\Debug\TDD.PokerHandsChecker.IsFourOfAKind.pdb
+C:\Users\Envy\Desktop\Linkods4\Telerik-Software-Academy-master\Modul 2\HQC\11. Test-Driven-Development-Homework\TDD.PokerHandsChecker.IsFourOfAKind\obj\Debug\TDD.PokerHandsChecker.IsFourOfAKind.dll
+C:\Users\Envy\Desktop\Linkods4\Telerik-Software-Academy-master\Modul 2\HQC\11. Test-Driven-Development-Homework\TDD.PokerHandsChecker.IsFourOfAKind\obj\Debug\TDD.PokerHandsChecker.IsFourOfAKind.pdb

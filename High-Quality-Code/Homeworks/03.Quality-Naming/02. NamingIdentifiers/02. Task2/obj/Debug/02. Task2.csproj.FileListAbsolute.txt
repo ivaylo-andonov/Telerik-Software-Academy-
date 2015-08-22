@@ -1,0 +1,1 @@
+C:\Users\Envy\GitHub\Telerik-Software-Academy-\High-Quality-Code\Homeworks\03.Quality-Naming\02. NamingIdentifiers\02. Task2\bin\Debug\_02.Task2.exe.config

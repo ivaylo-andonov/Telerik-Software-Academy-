@@ -1,0 +1,5 @@
+C:\Users\Envy\GitHub\Telerik-Software-Academy-\High-Quality-Code\Homeworks\03.Quality-Naming\02. NamingIdentifiers\04. Task4\bin\Debug\Minesweeper.exe
+C:\Users\Envy\GitHub\Telerik-Software-Academy-\High-Quality-Code\Homeworks\03.Quality-Naming\02. NamingIdentifiers\04. Task4\bin\Debug\Minesweeper.pdb
+C:\Users\Envy\GitHub\Telerik-Software-Academy-\High-Quality-Code\Homeworks\03.Quality-Naming\02. NamingIdentifiers\04. Task4\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\Envy\GitHub\Telerik-Software-Academy-\High-Quality-Code\Homeworks\03.Quality-Naming\02. NamingIdentifiers\04. Task4\obj\Debug\Minesweeper.exe
+C:\Users\Envy\GitHub\Telerik-Software-Academy-\High-Quality-Code\Homeworks\03.Quality-Naming\02. NamingIdentifiers\04. Task4\obj\Debug\Minesweeper.pdb

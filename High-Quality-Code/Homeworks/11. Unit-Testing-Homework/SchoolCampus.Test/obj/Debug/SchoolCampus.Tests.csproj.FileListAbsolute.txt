@@ -1,0 +1,7 @@
+C:\Users\Envy\Desktop\Linkods4\Telerik-Software-Academy-master\Modul 2\HQC\10. Unit-Testing-Homework\SchoolCampus.Test\bin\Debug\SchoolCampus.Test.dll
+C:\Users\Envy\Desktop\Linkods4\Telerik-Software-Academy-master\Modul 2\HQC\10. Unit-Testing-Homework\SchoolCampus.Test\bin\Debug\SchoolCampus.Test.pdb
+C:\Users\Envy\Desktop\Linkods4\Telerik-Software-Academy-master\Modul 2\HQC\10. Unit-Testing-Homework\SchoolCampus.Test\bin\Debug\SchoolCampus.exe
+C:\Users\Envy\Desktop\Linkods4\Telerik-Software-Academy-master\Modul 2\HQC\10. Unit-Testing-Homework\SchoolCampus.Test\bin\Debug\SchoolCampus.pdb
+C:\Users\Envy\Desktop\Linkods4\Telerik-Software-Academy-master\Modul 2\HQC\10. Unit-Testing-Homework\SchoolCampus.Test\obj\Debug\SchoolCampus.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Envy\Desktop\Linkods4\Telerik-Software-Academy-master\Modul 2\HQC\10. Unit-Testing-Homework\SchoolCampus.Test\obj\Debug\SchoolCampus.Test.dll
+C:\Users\Envy\Desktop\Linkods4\Telerik-Software-Academy-master\Modul 2\HQC\10. Unit-Testing-Homework\SchoolCampus.Test\obj\Debug\SchoolCampus.Test.pdb

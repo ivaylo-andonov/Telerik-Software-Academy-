@@ -1,0 +1,5 @@
+C:\Users\Envy\Desktop\Linkods4\Telerik-Software-Academy-master\Modul 2\HQC\11. Test-Driven-Development-Homework\TDD.Card.ToString\bin\Debug\TDD.Card.ToString.dll
+C:\Users\Envy\Desktop\Linkods4\Telerik-Software-Academy-master\Modul 2\HQC\11. Test-Driven-Development-Homework\TDD.Card.ToString\bin\Debug\TDD.Card.ToString.pdb
+C:\Users\Envy\Desktop\Linkods4\Telerik-Software-Academy-master\Modul 2\HQC\11. Test-Driven-Development-Homework\TDD.Card.ToString\obj\Debug\TDD.Card.ToString.csprojResolveAssemblyReference.cache
+C:\Users\Envy\Desktop\Linkods4\Telerik-Software-Academy-master\Modul 2\HQC\11. Test-Driven-Development-Homework\TDD.Card.ToString\obj\Debug\TDD.Card.ToString.dll
+C:\Users\Envy\Desktop\Linkods4\Telerik-Software-Academy-master\Modul 2\HQC\11. Test-Driven-Development-Homework\TDD.Card.ToString\obj\Debug\TDD.Card.ToString.pdb
