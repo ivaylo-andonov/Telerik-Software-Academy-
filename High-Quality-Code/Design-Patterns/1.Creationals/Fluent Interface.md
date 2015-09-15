@@ -1,7 +1,5 @@
-##Мотивация
-
-Създаване на по-четим и разбираем код.Създаване на chaining .
-Имплементира се чрез метод Cascading
+##Aim
+This pattern help us to make out code more readable and useful. Create "chaining" like jQueary`s libs or LINQ. Use method Cascading
 
 ###### Soulmate context
 ~~~c#
