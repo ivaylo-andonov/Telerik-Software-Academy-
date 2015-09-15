@@ -1,0 +1,78 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Clover Club Video Manager</title>
+    <link href='https://fonts.googleapis.com/css?family=Ubuntu:700,500italic' rel='stylesheet' type='text/css'/>
+    <link href="libs/bootstrap/dist/css/bootstrap.css" rel="stylesheet"/>
+    <link rel="stylesheet" href="libs/toastr/toastr.css"/>
+    <link rel="stylesheet" href="styles/bootstrap-custom-theme.css"/>
+    <link rel="stylesheet" href="styles/jquery-ui.min.css"/>
+    <link href="styles/styles.css" rel="stylesheet"/>
+    <script src="libs/jquery-1.10.2.min.js"></script>
+</head>
+<body>
+<nav class="navbar navbar-inverse navbar-fixed-top">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar"
+                aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="#/home" id="home">Clover Club Video Manager</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+        <ul class="nav navbar-nav pull-right">
+            <li><a href="#/login" id="login">Login/Register</a></li>
+            <li><a href="#/logged" id="user-name"></a></li>
+            <li><a href="#/contacts" id="contacts">Contact</a></li>
+            <li><a href="#/home" id="logout">Logout</a></li>
+        </ul>
+    </div>
+</nav>
+<div class="row"></div>
+<div class="container">
+    <div id="content"></div>
+</div>
+<br/>
+<br/>
+
+<div class="footer" style="text-align: center; margin-bottom: 0">
+    <div>
+        <span id="left">Team Clover Club &reg; 2015</span>
+        <span id="right">Powered by jQuery, Bootstrap, Parse etc.</span>
+
+        <div id="fb">
+            <div id="fb-root"></div>
+            <div class="fb-like" data-href="https://github.com/Clover-Club/JS-Apps-Course-Project-Team-Clover-Club"
+                 data-width="10px" data-layout="button" data-action="like" data-show-faces="true" data-share="true"
+                 data-colorscheme="dark">
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--Libs-->
+<script src="libs/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="libs/jquery/dist/jquery.js"></script>
+<script src="libs/jquery-ui/jquery-ui.min.js"></script>
+<script src="libs/underscore/underscore-min.js"></script>
+<script src="libs/sammy/lib/sammy.js"></script>
+<script src="libs/toastr/toastr.js"></script>
+
+<!--Scripts-->
+<script src="https://www.youtube.com/iframe_api"></script>
+<script src="scripts/authentication.js"></script>
+<script src="scripts/videoRenderer.js"></script>
+<script src="scripts/videoUrlParser.js"></script>
+<script src="scripts/ajaxRequester.js"></script>
+<script src="scripts/usersInputValidator.js"></script>
+<script src="scripts/videoStorage.js"></script>
+<script src="scripts/routingSammy.js"></script>
+<script src="scripts/fbButtons.js"></script>
+
+<!--TODO: Use SystemJs to import the files above-->
+
+</body>
+</html>

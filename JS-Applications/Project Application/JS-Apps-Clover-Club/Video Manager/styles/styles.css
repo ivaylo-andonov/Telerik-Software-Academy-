@@ -1,0 +1,196 @@
+﻿#navbar,.navbar-header, .footer{
+    background: rgb(181,189,200);
+    background: -moz-linear-gradient(top,  rgba(181,189,200,1) 3%, rgba(130,140,149,1) 23%, rgba(22,29,33,1) 91%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(3%,rgba(181,189,200,1)), color-stop(23%,rgba(130,140,149,1)), color-stop(91%,rgba(22,29,33,1)));
+    background: -webkit-linear-gradient(top,  rgba(181,189,200,1) 3%,rgba(130,140,149,1) 23%,rgba(22,29,33,1) 91%);
+    background: -o-linear-gradient(top,  rgba(181,189,200,1) 3%,rgba(130,140,149,1) 23%,rgba(22,29,33,1) 91%);
+    background: -ms-linear-gradient(top,  rgba(181,189,200,1) 3%,rgba(130,140,149,1) 23%,rgba(22,29,33,1) 91%);
+    background: linear-gradient(to bottom,  rgba(181,189,200,1) 3%,rgba(130,140,149,1) 23%,rgba(22,29,33,1) 91%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b5bdc8', endColorstr='#161d21',GradientType=0 );
+}
+
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+#add-videos-div{
+    margin-top: -10px;
+}
+
+#left{
+    margin-left: 250px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#right{
+    float: right;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.buttons {
+    text-align: center;
+}
+
+h5{
+    text-align: center;
+    font-size: 30px;
+    margin: 5px;
+}
+
+h5:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.btn {
+    display: inline-block;
+}
+
+.h2 {
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+
+}
+
+.h4 {
+    display: inline-block;
+}
+
+.row a {
+    float: right;
+}
+
+.empty {
+    height: 100px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 6px;
+    border-radius: 15px;
+}
+
+.clearfix {
+    clear: both;
+}
+
+.form-control {
+    margin-bottom: 10px;
+}
+
+#add-dd {
+    display: block;
+    margin-bottom: 10px;
+}
+
+#users-videos{
+    text-align: center;
+}
+
+iframe {
+    width: 240px;
+    height: 180px;
+    margin: 10px;
+}
+
+#login,#contacts {
+    font-weight: bold;
+    margin: 4px;
+
+}
+
+#welcome, #members {
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+
+}
+
+#welcome h2, h4 {
+    font-family: 'Ubuntu', sans-serif;
+}
+#welcome h2{
+    color: coral;
+
+}
+
+#home {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    font-size: 1.5em;
+    margin: 10px;
+    color: antiquewhite;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+#fb{
+    position: fixed;
+    bottom:40px;
+    right: 60px;
+}
+
+
+#greeting-span{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.2em;
+    color:#00b3ee;
+}
+
+#user-name{
+    font-family: 'Ubuntu', sans-serif;
+    color:#00b3ee;
+    font-weight: bold;
+    font-size: 1.2em;
+    margin: 4px;
+}
+
+#logout{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    margin: 4px;
+}
+
+.delete-btn{
+    /*display: none;*/
+}
+
+.video-container-div{
+    width: 250px;
+    display: inline-block;
+    margin: 15px;
+}
+
+#profile{
+    margin-left: 50px;
+}
+
+#listVideos a{
+    display: inline-block;
+}
+
+#add-videos-div{
+    display: none;
+}
+
+#add-videos-div a,input{
+    display: inline;
+}
+
+#sortable li{
+    font-family: 'Ubuntu', sans-serif;
+    padding: 6px;
+    margin: 10px;
+    border-radius: 8px;
+}
+label{
+    font-size: 1.2em;
+    font-family: 'Ubuntu', sans-serif;
+
+}
+
+#sortable li div{
+    font-family: 'Ubuntu', sans-serif;
+    color: coral;
+
+}

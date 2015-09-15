@@ -1,0 +1,26 @@
+<h1 class="h1" style="text-align: center">Fortune cookies</h1>
+<a href="#/cookies/add" class="btn btn-primary" style="float: right">Add Cookie</a>
+<br/>
+{{#if this}}
+{{#each this}}
+<br/>
+<div class="wrapped" style="border-bottom: 3px groove darkslategray;border-top: 3px groove darkslategray">
+    <h2>Category: <a href="#/cookies/{{category}}">{{category}}</a></h2>
+    <img src="{{img}}" alt="cookiePic"/>
+    <br/>
+
+    <p style="font-size: 1.3em"><strong>Text: </strong>{{text}}</p>
+    <strong>created
+        <span>{{postDate}}</span>
+    </strong>
+    <br/>
+    <strong>Date of share: </strong>
+    <span>{{shareDate}}</span>
+    <button class="btn btn-info">Likes: {{likes}}</button>
+    <button class="btn btn-danger">Dislikes: {{dislikes}}</button>
+
+</div>
+{{/each}}
+{{else}}
+<h2 class="h2" style="text-align: center">No Cookies !</h2>
+{{/if}}

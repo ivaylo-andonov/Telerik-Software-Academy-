@@ -1,0 +1,11 @@
+<h1 class="h1">{{title}}</h1>
+<a href="#/threads/{{id}}/messages/add" class="btn btn-danger " style="float: right">Add new message</a>
+
+<br/><br/>
+{{#messages}}
+<div style="border-bottom: 3px groove darkslategray;border-top: 3px groove darkslategray">
+    <p style="font-size: 1.3em; font-family: 'Times New Roman'">{{text}}</p>
+    by <a href="#/users/{{user.id}}" style="font-size: 1.2em">{{user.username}}</a>
+</div>
+<br/>
+{{/messages}}

@@ -1,0 +1,287 @@
+{
+  "users": [
+    {
+      "username": "Minkov",
+      "passHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "usernameToLower": "minkov",
+      "id": "16655985-e510-43d4-ad1c-2388c76d1ef6",
+      "authKey": "16655985-e510-43d4-ad1c-2388c76d1ef6FwHCPd*bP:.;Fu&:evl)RPGg"
+    },
+    {
+      "username": "Minkov3",
+      "passHash": "1234567890123456789012345678901234567890",
+      "usernameToLower": "minkov3",
+      "id": "bd04b3b8-5586-47ad-bf8f-db6c531dbb73",
+      "authKey": "bd04b3b8-5586-47ad-bf8f-db6c531dbb73erxSIAJyVOzIEIrpMFbanscO"
+    },
+    {
+      "username": "ivo",
+      "passHash": "7b52009b64fd0a2a49e6d8a939753077792b0554",
+      "usernameToLower": "ivo",
+      "id": "4aa05ee2-cf39-4d3e-96f8-9ca8c6801d12",
+      "authKey": "4aa05ee2-cf39-4d3e-96f8-9ca8c6801d12aBrawUoxtdEMWqINWjrbaHZL"
+    },
+    {
+      "username": "heyy",
+      "passHash": "40bd001563085fc35165329ea1ff5c5ecbdbbeef",
+      "usernameToLower": "heyy",
+      "id": "ac706edc-44d8-4f0c-a75c-fefc96195810"
+    },
+    {
+      "username": "ioo",
+      "passHash": "7b52009b64fd0a2a49e6d8a939753077792b0554",
+      "usernameToLower": "ioo",
+      "id": "ab93d2df-6016-40c4-b8a6-4af2ea8191ea"
+    },
+    {
+      "username": "ivooo",
+      "passHash": "7b52009b64fd0a2a49e6d8a939753077792b0554",
+      "usernameToLower": "ivooo",
+      "id": "22176b47-9d0e-4f4d-a8b0-7a0d1d5573e2",
+      "authKey": "22176b47-9d0e-4f4d-a8b0-7a0d1d5573e2vnSrjcBDsIpXMcnfEmfuZeLN"
+    },
+    {
+      "username": "ss",
+      "passHash": "7b52009b64fd0a2a49e6d8a939753077792b0554",
+      "usernameToLower": "ss",
+      "id": "96db4fb7-1268-4f69-bd0e-bf8449217f6c"
+    },
+    {
+      "username": "rr",
+      "passHash": "7b52009b64fd0a2a49e6d8a939753077792b0554",
+      "usernameToLower": "rr",
+      "id": "fa1b3ff4-8d79-40f1-93ab-90675ec3359f"
+    },
+    {
+      "username": "ppp",
+      "passHash": "7b52009b64fd0a2a49e6d8a939753077792b0554",
+      "usernameToLower": "ppp",
+      "id": "19340aeb-8681-4d54-b539-a2b729233b9e"
+    },
+    {
+      "username": "dd",
+      "passHash": "7b52009b64fd0a2a49e6d8a939753077792b0554",
+      "usernameToLower": "dd",
+      "id": "4b9c8164-b4fc-45d8-8083-91fb52f98769",
+      "authKey": "4b9c8164-b4fc-45d8-8083-91fb52f98769RkenuEbgiNuTbzxjSlGalZBO"
+    },
+    {
+      "username": "pesho",
+      "passHash": "356a192b7913b04c54574d18c28d46e6395428ab",
+      "usernameToLower": "pesho",
+      "id": "b09c94c4-0676-4bf7-b1c1-9bf85ecf2e7d",
+      "authKey": "b09c94c4-0676-4bf7-b1c1-9bf85ecf2e7dcBjyezaIvDdjZSBRSoVhjSEh"
+    },
+    {
+      "username": "aaaaaaa",
+      "passHash": "7b52009b64fd0a2a49e6d8a939753077792b0554",
+      "usernameToLower": "aaaaaaa",
+      "id": "f5496e8d-511b-4b7f-b712-8209f83b6e69",
+      "authKey": "f5496e8d-511b-4b7f-b712-8209f83b6e69yXXBJoSmkrwGYrblLZWyneNN"
+    },
+    {
+      "username": "qwertyu",
+      "passHash": "356a192b7913b04c54574d18c28d46e6395428ab",
+      "usernameToLower": "qwertyu",
+      "id": "d8358126-2d72-40fe-adaa-2a079952df36"
+    },
+    {
+      "username": "djangoo",
+      "passHash": "7b52009b64fd0a2a49e6d8a939753077792b0554",
+      "usernameToLower": "djangoo",
+      "id": "2f7073ea-8092-47dd-8da6-ab381d5a7079",
+      "authKey": "2f7073ea-8092-47dd-8da6-ab381d5a7079ToeUYCxsfvrYEpGKGEjnjEBC"
+    },
+    {
+      "username": "ivooooo",
+      "passHash": "7b52009b64fd0a2a49e6d8a939753077792b0554",
+      "usernameToLower": "ivooooo",
+      "id": "4e582103-a4ee-4af3-b84b-1b309cda21d0",
+      "authKey": "4e582103-a4ee-4af3-b84b-1b309cda21d0eTpcVqVRkIFCJUquCHmAmsVD",
+      "myCookies": [
+        {
+          "text": "Amm",
+          "category": "Ammm",
+          "img": "http://www.chicagonow.com/fitness-at-home/files/2011/08/chocolate_cookies.jpg",
+          "userId": "4aa05ee2-cf39-4d3e-96f8-9ca8c6801d12",
+          "likes": 0,
+          "dislikes": 0,
+          "shareDate": "2015-09-10T10:39:38.127Z",
+          "id": "4894a721-c987-4e38-a1a8-c20e14efc8a0",
+          "hours": 15
+        },
+        {
+          "text": "Amm",
+          "category": "Ammm",
+          "img": "http://www.chicagonow.com/fitness-at-home/files/2011/08/chocolate_cookies.jpg",
+          "userId": "4aa05ee2-cf39-4d3e-96f8-9ca8c6801d12",
+          "likes": 0,
+          "dislikes": 0,
+          "shareDate": "2015-09-10T10:39:38.127Z",
+          "id": "4894a721-c987-4e38-a1a8-c20e14efc8a0",
+          "hours": 15
+        },
+        {
+          "text": "Amm",
+          "category": "Ammm",
+          "img": "http://www.chicagonow.com/fitness-at-home/files/2011/08/chocolate_cookies.jpg",
+          "userId": "4aa05ee2-cf39-4d3e-96f8-9ca8c6801d12",
+          "likes": 0,
+          "dislikes": 0,
+          "shareDate": "2015-09-10T10:39:38.127Z",
+          "id": "4894a721-c987-4e38-a1a8-c20e14efc8a0",
+          "hours": 15
+        },
+        {
+          "text": "Amm",
+          "category": "Ammm",
+          "img": "http://www.chicagonow.com/fitness-at-home/files/2011/08/chocolate_cookies.jpg",
+          "userId": "4aa05ee2-cf39-4d3e-96f8-9ca8c6801d12",
+          "likes": 0,
+          "dislikes": 0,
+          "shareDate": "2015-09-10T10:39:38.127Z",
+          "id": "4894a721-c987-4e38-a1a8-c20e14efc8a0",
+          "hours": 15
+        },
+        {
+          "text": "Amm",
+          "category": "Ammm",
+          "img": "http://www.chicagonow.com/fitness-at-home/files/2011/08/chocolate_cookies.jpg",
+          "userId": "4aa05ee2-cf39-4d3e-96f8-9ca8c6801d12",
+          "likes": 0,
+          "dislikes": 0,
+          "shareDate": "2015-09-10T10:39:38.127Z",
+          "id": "4894a721-c987-4e38-a1a8-c20e14efc8a0",
+          "hours": 15
+        },
+        {
+          "text": "Amm",
+          "category": "Ammm",
+          "img": "http://www.chicagonow.com/fitness-at-home/files/2011/08/chocolate_cookies.jpg",
+          "userId": "4aa05ee2-cf39-4d3e-96f8-9ca8c6801d12",
+          "likes": 0,
+          "dislikes": 0,
+          "shareDate": "2015-09-10T10:39:38.127Z",
+          "id": "4894a721-c987-4e38-a1a8-c20e14efc8a0",
+          "hours": 15
+        }
+      ]
+    },
+    {
+      "username": "ppppppp",
+      "passHash": "40bd001563085fc35165329ea1ff5c5ecbdbbeef",
+      "usernameToLower": "ppppppp",
+      "id": "a8a94ab0-1efe-4cdf-9fec-b2f6a6416119",
+      "authKey": "a8a94ab0-1efe-4cdf-9fec-b2f6a6416119hpYZcRohJfZEHmAOZwgxTVGd",
+      "myCookies": [
+        {
+          "text": "Aideeeeee",
+          "category": "coookieee",
+          "img": "http://www.sudburygardeningfestival.ca/images/Cookie.jpg",
+          "userId": "2f7073ea-8092-47dd-8da6-ab381d5a7079",
+          "likes": 0,
+          "dislikes": 0,
+          "shareDate": "2015-09-10T12:06:10.325Z",
+          "id": "580ebb69-fc21-4057-94d2-0ef5e2535030",
+          "hours": 15
+        },
+        {
+          "text": "Aideeeeee",
+          "category": "coookieee",
+          "img": "http://www.sudburygardeningfestival.ca/images/Cookie.jpg",
+          "userId": "2f7073ea-8092-47dd-8da6-ab381d5a7079",
+          "likes": 0,
+          "dislikes": 0,
+          "shareDate": "2015-09-10T12:06:10.325Z",
+          "id": "580ebb69-fc21-4057-94d2-0ef5e2535030",
+          "hours": 15
+        }
+      ]
+    }
+  ],
+  "cookies": [
+    {
+      "text": "Test",
+      "category": "Home",
+      "userId": "16655985-e510-43d4-ad1c-2388c76d1ef6",
+      "likes": 10,
+      "dislikes": 15,
+      "img": "https://dayinthelifeofapurpleminion.files.wordpress.com/2014/12/batman-exam.jpg",
+      "shareDate": "2015-09-09T14:53:30.290Z",
+      "id": "2dae28aa-ee64-4bc1-8591-29284d88c9e9"
+    },
+    {
+      "text": "May the Force with you",
+      "category": "WOrk",
+      "userId": "16655985-e510-43d4-ad1c-2388c76d1ef6",
+      "likes": 16,
+      "dislikes": 0,
+      "img": "https://dayinthelifeofapurpleminion.files.wordpress.com/2014/12/batman-exam.jpg",
+      "shareDate": "2015-09-09T14:53:56.482Z",
+      "id": "e2fdbf82-54c3-488f-add4-9af3262c2572",
+      "hours": 9
+    },
+    {
+      "text": "Hello!",
+      "category": "Home",
+      "userId": "bd04b3b8-5586-47ad-bf8f-db6c531dbb73",
+      "likes": 11,
+      "dislikes": 9,
+      "img": "https://dayinthelifeofapurpleminion.files.wordpress.com/2014/12/batman-exam.jpg",
+      "shareDate": "2015-09-10T06:24:18.743Z",
+      "id": "ea91a233-bcf3-48b6-933f-05857f4aea87"
+    },
+    {
+      "text": "Amm",
+      "category": "Ammm",
+      "img": "http://www.chicagonow.com/fitness-at-home/files/2011/08/chocolate_cookies.jpg",
+      "userId": "4aa05ee2-cf39-4d3e-96f8-9ca8c6801d12",
+      "likes": 0,
+      "dislikes": 0,
+      "shareDate": "2015-09-10T10:39:38.127Z",
+      "id": "4894a721-c987-4e38-a1a8-c20e14efc8a0",
+      "hours": 15
+    },
+    {
+      "text": "Heyyy itss",
+      "category": "Nqma",
+      "img": "http://static.wixstatic.com/media/cf49d1_6ca6b16015e141ddbc67661e4f66ab42.png",
+      "userId": "4aa05ee2-cf39-4d3e-96f8-9ca8c6801d12",
+      "likes": 0,
+      "dislikes": 0,
+      "shareDate": "2015-09-10T10:48:22.519Z",
+      "id": "3ce07bb2-0772-4e62-9aca-3d8bbc8bd531"
+    },
+    {
+      "text": "Aideeeeee",
+      "category": "coookieee",
+      "img": "http://www.sudburygardeningfestival.ca/images/Cookie.jpg",
+      "userId": "2f7073ea-8092-47dd-8da6-ab381d5a7079",
+      "likes": 0,
+      "dislikes": 0,
+      "shareDate": "2015-09-10T12:06:10.325Z",
+      "id": "580ebb69-fc21-4057-94d2-0ef5e2535030",
+      "hours": 15
+    },
+    {
+      "text": "aaaaaa",
+      "category": "aaaaaaaaaaaaaaaaa",
+      "img": "http://www.sudburygardeningfestival.ca/images/Cookie.jpg",
+      "userId": "2f7073ea-8092-47dd-8da6-ab381d5a7079",
+      "likes": 0,
+      "dislikes": 0,
+      "shareDate": "2015-09-10T12:10:39.971Z",
+      "id": "abbfe6ce-cd4a-4ed5-b8d0-c0bcd2cab776"
+    },
+    {
+      "text": "aaaaaaa",
+      "category": "aaaaaaaaa",
+      "img": "http://www.sudburygardeningfestival.ca/images/Cookie.jpg",
+      "userId": "2f7073ea-8092-47dd-8da6-ab381d5a7079",
+      "likes": 0,
+      "dislikes": 0,
+      "shareDate": "2015-09-10T12:12:44.271Z",
+      "id": "74cf0b8c-4d4b-4350-9ba9-1da3d8a4e2ba"
+    }
+  ]
+}

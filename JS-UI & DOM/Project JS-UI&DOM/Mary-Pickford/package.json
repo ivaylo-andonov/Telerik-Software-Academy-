@@ -1,0 +1,22 @@
+{
+  "name": "paint",
+  "version": "1.0.0",
+  "description": "Teamwork project with educational purpose",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ginovski/Mary-Pickford.git"
+  },
+  "author": "Team Mary-Pickford",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ginovski/Mary-Pickford/issues"
+  },
+  "homepage": "https://github.com/ginovski/Mary-Pickford#readme",
+  "dependencies": {
+    "express": "^4.13.1"
+  }
+}

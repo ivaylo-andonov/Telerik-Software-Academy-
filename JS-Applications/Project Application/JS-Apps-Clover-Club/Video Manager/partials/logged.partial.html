@@ -1,0 +1,43 @@
+<div class="row logged-user">
+    <div class="row empty"></div>
+    <div class="row">
+        <div class="col-md-0"></div>
+        <div id="greeting" class="col-md-3"><h2 class="h2" style="color: #00b3ee">Hello, <span
+                id="greeting-span"></span></h2></div>
+        <div class="col-md-9"></div>
+    </div>
+    <div class="row" style="height: 220px;">
+        <div class="col-md-3">
+            <div class="row"></div>
+            <div id="profile"><img src="imgs/avatar.png" width="150px" height="150px" alt="avatar"/></div>
+        </div>
+        <div class="col-md-4">
+            <div class="container-fluid">
+                <label for="category-options">Choose category:</label>
+                <select class="form-control" id="category-options"></select>
+                <a href="#" class="btn btn-info" id="add-more-videos">Add video</a>
+                <a href="#" class="btn btn-success" id="show-form-btn">Show</a>
+            </div>
+        </div>
+        <div class="col-md-1"></div>
+        <div id="add-videos-div" class="col-md-4">
+            <h4>Add new video:</h4>
+            <input type="text" class="form-control" id="add-video" placeholder="Enter video url here">
+            <h4>Add category:</h4>
+            <input type="text" class="form-control" id="category" placeholder="Enter category">
+            <a href="#" class="btn btn-info" id="add-form-btn">Add it</a>
+        </div>
+        <div class="col-md-0"></div>
+
+    </div>
+    <div class="row">
+        <h2 class="h2">My Videos:</h2>
+    </div>
+    <div class="row">
+        <div class="col-md-1"></div>
+        <div class="col-md-10" id="users-videos"></div>
+        <div class="col-md-1"></div>
+    </div>
+</div>
+<script src="controllers/loggedController.js"></script>
+<script src="scripts/showAddVideo.js"></script>

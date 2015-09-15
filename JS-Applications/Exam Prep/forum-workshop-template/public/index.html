@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Workshop: Simple Forum with Sammy.js, jQuery and Handlebars</title>
+    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="bower_components/jquery-ui/themes/base/jquery-ui.min.css"/>
+    <link rel="stylesheet" href="bower_components/toastr/toastr.css"/>
+    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+</head>
+<body>
+<header>
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar"
+                        aria-expanded="false" aria-controls="navbar">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" style="font-family: 'Montserrat', sans-serif;" href="#/home">Fortune Cookies</a>
+            </div>
+            <div id="navbar" class="navbar-collapse collapse">
+                <form class="navbar-form navbar-right">
+                    <div class="form-group">
+                        <input type="text" id="tb-user" placeholder="Username" class="form-control">
+                    </div>
+                    <div class="form-group">
+                        <input type="password" id="tb-pass" placeholder="Password" class="form-control">
+                    </div>
+                    <button id="btn-login" class="btn btn-success">Sign in</button>
+                    <button id="btn-logout" class="btn btn-warning" >Sign out</button>
+                    <a href="#/register" class="btn btn-info" id="reg-user">Register</a>
+                    <a href="#/user" class="btn btn-primary" id="username-nav"></a>
+                </form>
+            </div>
+        </div>
+    </nav>
+    <div style="height: 130px" class="jumbotron">
+        <div class="container">
+            <h2 style="display: inline-block">Hello, <span id="greeting" style="color: #66afe9">User !</span></h2>
+            <a href="#/threads" class="btn"
+               style="font-size: 2em;font-family: 'Montserrat', sans-serif;color:black;margin-top:-10px; margin-left: 20px;">Blog
+                Posts
+            </a>
+        </div>
+    </div>
+</header>
+<div class="container">
+    <div class="row">
+        <div class="col-md-2">
+            <img src="https://upload.wikimedia.org/wikipedia/en/1/13/Telerik_Logo.png" width="100%" alt="Telerik logo"/>
+
+        </div>
+        <div class="col-md-8">
+            <div id="content"></div>
+        </div>
+        <div class="col-md-2"></div>
+    </div>
+</div>
+<hr>
+<footer class="modal-footer">
+    <p class="modal-footer" style="font-weight: bold">© Telerik 2015</p>
+</footer>
+
+<!--App Libs-->
+<script src="bower_components/jquery/dist/jquery.min.js"></script>
+<script src="bower_components/jquery-ui/jquery-ui.min.js"></script>
+<script src="bower_components/sammy/lib/sammy.js"></script>
+<script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="bower_components/handlebars/handlebars.min.js"></script>
+<script src="bower_components/sha1/index.js"></script>
+<script src="bower_components/moment/min/moment.min.js"></script>
+<script src="bower_components/toastr/toastr.js"></script>
+
+<!--App Controllers-->
+<script src="controllers/homeController.js"></script>
+<script src="controllers/usersController.js"></script>
+<script src="controllers/threadsController.js"></script>
+
+<!--App Loaders-->
+<script src="js/templates.js"></script>
+<script src="js/data.js"></script>
+
+<!--App Start-->
+<script src="myApp.js"></script>
+
+</body>
+</html>

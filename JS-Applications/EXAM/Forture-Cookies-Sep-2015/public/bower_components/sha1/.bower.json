@@ -1,0 +1,14 @@
+{
+  "name": "sha1",
+  "_cacheHeaders": {
+    "ETag": "\"636//tags/3.1.2/build/rollups/sha1.js\"",
+    "Last-Modified": "Tue, 22 Jan 2013 17:44:44 GMT",
+    "Content-Length": "4294",
+    "Content-Type": "text/javascript"
+  },
+  "_release": "e-tag:636//tags",
+  "main": "index.js",
+  "_source": "http://crypto-js.googlecode.com/svn/tags/3.1.2/build/rollups/sha1.js",
+  "_target": "*",
+  "_originalSource": "http://crypto-js.googlecode.com/svn/tags/3.1.2/build/rollups/sha1.js"
+}

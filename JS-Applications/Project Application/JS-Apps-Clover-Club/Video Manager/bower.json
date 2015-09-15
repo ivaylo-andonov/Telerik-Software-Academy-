@@ -1,0 +1,25 @@
+{
+  "name": "DemoCourseProject",
+  "version": "0.0.1",
+  "authors": [
+    "ivanvasilev <ivanvasilev_90@yahoo.com>"
+  ],
+  "description": "Demo Project",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "handlebars": "~4.0.0",
+    "jquery": "~2.1.4",
+    "jquery-ui": "jqueryui#~1.11.4",
+    "sammy": "~0.7.6",
+    "toastr": "~2.1.2",
+    "underscore": "~1.8.3"
+  }
+}
