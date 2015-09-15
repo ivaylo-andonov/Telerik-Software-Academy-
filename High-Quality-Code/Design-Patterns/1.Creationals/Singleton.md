@@ -1,6 +1,6 @@
 # Creational Patterns
 
-## Singleton/Сингълтън(Сек)
+## Singleton/Сингълтън
 
  * Шаблонът се използва, за да подсигури, че от даден клас може да бъде създадена една единствена инстанция
  * При нужда от допълнителни обекти от класа, се връща първоначално създадената единствена инстанция
@@ -69,5 +69,3 @@ public sealed class Singleton
     }
 }
 ```
-
-This is [on GitHub](https://github.com/dtopalov/HQCode/blob/master/DesignPatterns/CreationalPatterns/singleton.md).
