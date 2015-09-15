@@ -111,5 +111,3 @@ public class Client
         }
     }
 ~~~
-
-###### Демо: [Link to GitHub](https://github.com/clangelov/TelerikAcademyHomework/tree/master/08_High-QualityCode/CreationalPatterns-Homework/demos/AircraftObjectPoolDemo)
