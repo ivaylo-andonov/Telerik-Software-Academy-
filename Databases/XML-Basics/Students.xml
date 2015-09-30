@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="students.xslt"?>
+<school xmlns:students="urn:students">
+  <students>
+    <student>
+      <name>Ivo</name>
+      <sex>Male</sex>
+      <birthdate>1992-05-28</birthdate>
+      <phone>+3598 95 637 222</phone>
+      <email>i.kolev@gmail.com</email>
+      <course>Informatics</course>
+      <specialty>Artificial intelligence</specialty>
+      <facultynumber>115115</facultynumber>
+      <passedexams>
+        <exam>
+          <course>Informatics</course>
+          <tutor>P.Mushev</tutor>
+          <score>6</score>
+        </exam>
+        <exam>
+          <course>Sport</course>
+          <tutor>Tenio Tenev</tutor>
+          <score>4</score>
+        </exam>
+        <exam>
+          <course>Mathematics</course>
+          <tutor>O. Aladin</tutor>
+          <score>5.5</score>
+        </exam>
+      </passedexams>
+    </student>
+    <student>
+      <name>Sashka</name>
+      <sex>Female</sex>
+      <birthdate>1992-02-12</birthdate>
+      <phone>0889443223</phone>
+      <email>djafar@abv.bg</email>
+      <course>Romance Philology</course>
+      <specialty>Romance Philology</specialty>
+      <facultynumber>142456789</facultynumber>
+      <passedexams>
+        <exam>
+          <course>French Love</course>
+          <tutor>A. Chesnova</tutor>
+          <score>5</score>
+        </exam>
+        <exam>
+          <course>Hawaii langluage</course>
+          <tutor>K. Betsy</tutor>
+          <score>6</score>
+        </exam>
+        <exam>
+          <course>WWE</course>
+          <tutor>R. Rusev</tutor>
+          <score>6</score>
+        </exam>
+      </passedexams>
+    </student>
+    <student>
+      <name>Anton</name>
+      <sex>Male</sex>
+      <birthdate>2002-10-31</birthdate>
+      <phone>0995666777</phone>
+      <email>anto@hotmail.com</email>
+      <course>Art</course>
+      <specialty>Landshafting</specialty>
+      <facultynumber>111000</facultynumber>
+      <passedexams>
+        <exam>
+          <course>Boxing</course>
+          <tutor>M. Tison</tutor>
+          <score>7</score>
+        </exam>
+        <exam>
+          <course>Snowboaring</course>
+          <tutor>W. Shekspir</tutor>
+          <score>4</score>
+        </exam>
+        <exam>
+          <course>English Fliring</course>
+          <tutor>Ivaylo</tutor>
+          <score>6</score>
+        </exam>
+      </passedexams>
+    </student>
+  </students>
+  <enrollment>
+    <dates>
+      <date>
+        <day>2016-06-06</day>
+      </date>
+      <date>
+        <day>2015-06-11</day>
+      </date>
+    <date>
+        <day>2014-06-21</day>
+      </date>
+      <date>
+        <day>2013-06-12</day>
+      </date>
+    </dates>
+    <examscore>5.6</examscore>
+  </enrollment>
+  <teachers>
+    <teacher>
+      <name>B.Borisova</name>
+      <endorsement>Oxford Master Degree Art Designs</endorsement>
+    </teacher>
+    <teacher>
+      <name>A.Sokolova</name>
+      <endorsement>UNSS proffesor</endorsement>
+    </teacher>
+  </teachers>
+</school>
