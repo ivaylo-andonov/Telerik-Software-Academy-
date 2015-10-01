@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<albums>
+	<album>
+		<name>Makavelli</name>
+		<artist>2PAC</artist>
+	</album>
+	<album>
+		<name>Electrica</name>
+		<artist>Tiesto</artist>
+	</album>
+	<album>
+		<name>Ballin</name>
+		<artist>Tyga</artist>
+	</album>
+	<album>
+		<name>My gangsta life</name>
+		<artist>2PAC</artist>
+	</album>
+</albums>

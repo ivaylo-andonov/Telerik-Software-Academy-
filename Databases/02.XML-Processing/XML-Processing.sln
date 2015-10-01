@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-06-XML-Parsers", "XML-Parsers\02-06-XML-Parsers.csproj", "{61CC07FF-56BE-4FA8-8129-3E91EE08CFD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.Text-To-Xml", "07.Text-To-Xml\07.Text-To-Xml.csproj", "{75A34116-50E3-42C4-BFA2-FDEF5D3F694D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.ExtractNewAlbumXMLWithAlbumsAndAuthors", "08.ExtractNewAlbumXMLWithAlbumsAndAuthors\08.ExtractNewAlbumXMLWithAlbumsAndAuthors.csproj", "{0B1525BB-C04F-4623-A45F-49DA8CA9F18C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.TraverseDirectoryAndWriteXML", "09.TraverseDirectoryAndWriteXML\09.TraverseDirectoryAndWriteXML.csproj", "{65D1761C-5AFE-45B7-ABE0-91F0F6D4BFE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.TraverseDirUsingXDocument", "10.TraverseDirUsingXDocument\10.TraverseDirUsingXDocument.csproj", "{7292A43F-1867-4B37-A270-DA69BB0C9BC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-12.AllAlbumPricesFiveYearsAgo", "11.AllAlbumPricesFiveYearsAgo\11-12.AllAlbumPricesFiveYearsAgo.csproj", "{E2F1F9E8-5BC5-468B-B9BC-0BCA24D67FE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-16.TransformingXmlIntoHTMLAndSchemas", "13-16.TransformingXmlIntoHTMLAndSchemas\13-16.TransformingXmlIntoHTMLAndSchemas.csproj", "{B4505519-F0ED-4B11-B8C5-2B11B5FCD4EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61CC07FF-56BE-4FA8-8129-3E91EE08CFD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61CC07FF-56BE-4FA8-8129-3E91EE08CFD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61CC07FF-56BE-4FA8-8129-3E91EE08CFD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61CC07FF-56BE-4FA8-8129-3E91EE08CFD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75A34116-50E3-42C4-BFA2-FDEF5D3F694D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75A34116-50E3-42C4-BFA2-FDEF5D3F694D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75A34116-50E3-42C4-BFA2-FDEF5D3F694D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75A34116-50E3-42C4-BFA2-FDEF5D3F694D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B1525BB-C04F-4623-A45F-49DA8CA9F18C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B1525BB-C04F-4623-A45F-49DA8CA9F18C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B1525BB-C04F-4623-A45F-49DA8CA9F18C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B1525BB-C04F-4623-A45F-49DA8CA9F18C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65D1761C-5AFE-45B7-ABE0-91F0F6D4BFE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65D1761C-5AFE-45B7-ABE0-91F0F6D4BFE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65D1761C-5AFE-45B7-ABE0-91F0F6D4BFE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65D1761C-5AFE-45B7-ABE0-91F0F6D4BFE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7292A43F-1867-4B37-A270-DA69BB0C9BC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7292A43F-1867-4B37-A270-DA69BB0C9BC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7292A43F-1867-4B37-A270-DA69BB0C9BC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7292A43F-1867-4B37-A270-DA69BB0C9BC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2F1F9E8-5BC5-468B-B9BC-0BCA24D67FE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2F1F9E8-5BC5-468B-B9BC-0BCA24D67FE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2F1F9E8-5BC5-468B-B9BC-0BCA24D67FE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2F1F9E8-5BC5-468B-B9BC-0BCA24D67FE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4505519-F0ED-4B11-B8C5-2B11B5FCD4EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4505519-F0ED-4B11-B8C5-2B11B5FCD4EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4505519-F0ED-4B11-B8C5-2B11B5FCD4EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4505519-F0ED-4B11-B8C5-2B11B5FCD4EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

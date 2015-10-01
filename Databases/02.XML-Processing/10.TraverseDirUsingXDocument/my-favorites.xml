@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Favorites path="C:\Users\Envy\Favorites">
+  <dir path="C:\Users\Envy\Favorites">
+    <dir path="C:\Users\Envy\Favorites\Links">
+      <dir path="C:\Users\Envy\Favorites\Links\Ivo Testing">
+        <dir path="C:\Users\Envy\Favorites\Links\Ivo Testing\Another Test">
+          <file name="Bang.txt" />
+        </dir>
+      </dir>
+      <file name="desktop.ini" />
+      <file name="Suggested Sites.url" />
+      <file name="Web Slice Gallery.url" />
+    </dir>
+    <dir path="C:\Users\Envy\Favorites\Microsoft Websites">
+      <file name="IE Add-on site.url" />
+      <file name="IE site on Microsoft.com.url" />
+      <file name="Microsoft At Home.url" />
+      <file name="Microsoft At Work.url" />
+      <file name="Microsoft Store.url" />
+    </dir>
+    <dir path="C:\Users\Envy\Favorites\MSN Websites">
+      <file name="MSN Autos.url" />
+      <file name="MSN Entertainment.url" />
+      <file name="MSN Money.url" />
+      <file name="MSN Sports.url" />
+      <file name="MSN.url" />
+      <file name="MSNBC News.url" />
+    </dir>
+    <dir path="C:\Users\Envy\Favorites\Windows Live">
+      <file name="Get Windows Live.url" />
+      <file name="Windows Live Gallery.url" />
+      <file name="Windows Live Mail.url" />
+      <file name="Windows Live Spaces.url" />
+    </dir>
+    <file name="Bing.url" />
+    <file name="desktop.ini" />
+  </dir>
+</Favorites>

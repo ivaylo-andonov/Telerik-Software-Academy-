@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="style.xslt"?>
+
+<catalogue>
+  <album>
+    <name>Makavelli</name>
+    <artist>2PAC</artist>
+    <year>1992</year>
+    <producer>Easy-E</producer>
+    <price>99.99</price>
+    <songs>
+      <song>
+        <title>Mothafuckin G</title>
+        <duration>5:34</duration>
+      </song>
+      <song>
+        <title>Believe</title>
+        <duration>4:45</duration>
+      </song>
+      <song>
+        <title>Haly Mary</title>
+        <duration>5:04</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>Electrica</name>
+    <artist>Tiesto</artist>
+    <year>2002</year>
+    <producer>Tiesto Dj</producer>
+    <price>38.50</price>
+    <songs>
+      <song>
+        <title>Traffic</title>
+        <duration>12:25</duration>
+      </song>
+
+      <song>
+        <title>Lethal industry</title>
+        <duration>9:20</duration>
+      </song>
+      <song>
+        <title>No control</title>
+        <duration>15:08</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>Ballin</name>
+    <artist>Tyga</artist>
+    <year>2016</year>
+    <producer>Wiz Khalifa</producer>
+    <price>19.99</price>
+    <songs>
+      <song>
+        <title>Switch lines</title>
+        <duration>6:20</duration>
+      </song>
+      <song>
+        <title>Designer</title>
+        <duration>3:50</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>My gangsta life</name>
+    <artist>2PAC</artist>
+    <year>2000</year>
+    <producer>Bang</producer>
+    <price>14.89</price>
+    <songs>
+      <song>
+        <title>Hit em Up</title>
+        <duration>4:32</duration>
+      </song>
+      <song>
+        <title>Bitch why you wonda they call you bitch</title>
+        <duration>5:03</duration>
+      </song>
+    </songs>
+  </album>
+</catalogue>

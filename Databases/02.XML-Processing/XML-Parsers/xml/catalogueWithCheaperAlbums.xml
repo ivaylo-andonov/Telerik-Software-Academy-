@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalogue>
+  <album>
+    <name>Ballin</name>
+    <artist>Tyga</artist>
+    <year>2010</year>
+    <producer>Wiz Khalifa</producer>
+    <price>19.99</price>
+    <songs>
+      <song>
+        <title>Switch lines</title>
+        <duration>6:20</duration>
+      </song>
+      <song>
+        <title>Designer</title>
+        <duration>3:50</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>My gangsta life</name>
+    <artist>2PAC</artist>
+    <year>2000</year>
+    <producer>Bang</producer>
+    <price>14.89</price>
+    <songs>
+      <song>
+        <title>Hit em Up</title>
+        <duration>4:32</duration>
+      </song>
+      <song>
+        <title>Bitch why you wonda they call you bitch</title>
+        <duration>5:03</duration>
+      </song>
+    </songs>
+  </album>
+</catalogue>
