@@ -1,7 +1,5 @@
 ﻿namespace JSON_Processing_Telerik_Videos
 {
-    using Newtonsoft.Json;
-    using Newtonsoft.Json.Linq;
     using System;
     using System.IO;
     using System.Linq;
@@ -9,11 +7,14 @@
     using System.Text;
     using System.Xml;
     using System.Collections.Generic;
+	
+	using Newtonsoft.Json;
+    using Newtonsoft.Json.Linq;
 
     class Program
     {
-        const string RssUrl = "https://www.youtube.com/feeds/videos.xml?channel_id=UCLC-vbm7OWvpbqzXaoAMGGw";
         const string XmlDownloadLocation = "../../rss.xml";
+		const string RssUrl = "https://www.youtube.com/feeds/videos.xml?channel_id=UCLC-vbm7OWvpbqzXaoAMGGw";
 
         static void Main()
         {
@@ -29,7 +30,6 @@
 
             PrintVideoTitlesToConsole(jsonObject);
 
-            //Used LINQ to select all of videos tokens
             var videos = jsonObject["feed"]["entry"].Select(token => JsonConvert.DeserializeObject<Video>(token.ToString()));
 
             GenerateHtml(videos);
