@@ -1,8 +1,0 @@
-C:\Users\Envy\GitHub\Telerik-Software-Academy-\Databases\03.JSON.NET-Processing\JSON-Processing-Telerik-Videos\bin\Debug\JSON-Processing-Telerik-Videos.exe.config
-C:\Users\Envy\GitHub\Telerik-Software-Academy-\Databases\03.JSON.NET-Processing\JSON-Processing-Telerik-Videos\bin\Debug\JSON-Processing-Telerik-Videos.exe
-C:\Users\Envy\GitHub\Telerik-Software-Academy-\Databases\03.JSON.NET-Processing\JSON-Processing-Telerik-Videos\bin\Debug\JSON-Processing-Telerik-Videos.pdb
-C:\Users\Envy\GitHub\Telerik-Software-Academy-\Databases\03.JSON.NET-Processing\JSON-Processing-Telerik-Videos\bin\Debug\Newtonsoft.Json.dll
-C:\Users\Envy\GitHub\Telerik-Software-Academy-\Databases\03.JSON.NET-Processing\JSON-Processing-Telerik-Videos\bin\Debug\Newtonsoft.Json.xml
-C:\Users\Envy\GitHub\Telerik-Software-Academy-\Databases\03.JSON.NET-Processing\JSON-Processing-Telerik-Videos\obj\Debug\JSON-Processing-Telerik-Videos.csprojResolveAssemblyReference.cache
-C:\Users\Envy\GitHub\Telerik-Software-Academy-\Databases\03.JSON.NET-Processing\JSON-Processing-Telerik-Videos\obj\Debug\JSON-Processing-Telerik-Videos.exe
-C:\Users\Envy\GitHub\Telerik-Software-Academy-\Databases\03.JSON.NET-Processing\JSON-Processing-Telerik-Videos\obj\Debug\JSON-Processing-Telerik-Videos.pdb
